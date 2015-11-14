@@ -1,0 +1,7 @@
+.. _about:
+
+About
+=====
+
+NeuroTechX !
+
