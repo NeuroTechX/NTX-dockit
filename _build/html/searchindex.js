@@ -1,0 +1,1 @@
+Search.setIndex({envversion:46,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0,index:0,modul:0,page:0,search:0},titles:["Welcome to NTX-dockit&#8217;s documentation!"],titleterms:{dockit:0,document:0,indic:0,ntx:0,tabl:0,welcom:0}})
