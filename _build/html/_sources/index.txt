@@ -7,34 +7,31 @@ Release v\ |version| (:doc:`What's new? <changelog>`).
    :start-after: :orphan:
 
 
-Important
+First Steps
 ----------
 
 .. toctree::
 
-   getting-started
    about
+   getting-started
+   Conduct
+   First Event
 
-
-Deeper Dive
+What next     
 -----------
 
 .. toctree::
 
-   history
-   chapters
-   policies
-   faqs
-   contact
+   hacknights
+   Meetups
+   organizational-tips
 
 
-How do I...?
+Events
 ------------
 
 .. toctree::
 
-   events
-   hacknights
    website
    newsletter
    social-media
@@ -44,6 +41,8 @@ Extras
 ------
 
 .. toctree::
-
+	
+   history
+   contact
    swag
    resources
