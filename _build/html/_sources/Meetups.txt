@@ -1,4 +1,4 @@
-z.. _meetups:
+.. _meetups:
 
 Meetups
 ======
@@ -16,6 +16,21 @@ Types of big events you could have:
 	* show and tell for hackers within the group. A few people sign up to give demos or explanations of what they’ve built. “Group Demo Day”
 	* large speaker event - scientists, CEOs, etc give talks for a more general audience
 
+If you are short on theme ideas, try the following: 
+
+	* Brain stimulation and Nootropics
+	* Art/music
+	* Startups in Neurotechnology
+	* VR and Neurotechnology
+	* Serious Gaming/Neurogaming
+	* Citizen science/ crowdsourcing
+	* Neural Ethics
+	* The future of Neurotechnologies
+	* Clinical BCI
+	* BCI in Healthcare
+	* Quantified Self 
+	* DIY projects Demo Day
+
 Preparing an event:
 ------------------------
 
@@ -25,20 +40,16 @@ Here is a checklist to follow when putting together a good event:
 
 	<form action="">
 	<ul>
+		<ol><input type="checkbox"  value="">(5 weeks prior) Choose a Theme</input></ol>
 		<ol><input type="checkbox"  value="">(4 weeks prior) Create the Meetup</input></ol>
 		<ol><input type="checkbox"  value="">(every week) Post on twitter, slack, facebook, other meetup groups..</input></ol>
-		<ol><input type="checkbox"  value="">(4 weeks before) Find list of speakers</input></ol>
+		<ol><input type="checkbox"  value="">(4 weeks before) Identify and reach to out to speakers</input></ol>
 		<ol><input type="checkbox"  value="">(4 weeks before) Reach out to list of venues</input></ol>
-		<ol><input type="checkbox"  value="">A private admin channel on slack</input></ol>
+		
 		
 	</ul>
 	</form>
 
-
-Post to FB, slack, or whatever local channels you have
-Post to Meetup, Eventbrite
-
-Decide what your target audience is (see types of events above) . Invite people who will know more of those kinds of people, and encourage people to bring friends. 
 
 
 During
