@@ -29,19 +29,12 @@ Setting up the Meetup Page
 		
 Although it will likely be taken care of you, in certain situations you may need to set it up yourself.  Here is a step by step guide on what to do.
 
-Select the city you will be hosting the event.  If you make a mistake you will be required to reach out to Meetup and ask them to change it)
+1. Go to `Meetup.com <http://www.meetup.com>`_ and select Start a Meetup Group. 
 
-When you create an event for the first time, you will be asked to select a name. Please select one that has the format of Neurotech(capitalized abbreviation of your city/town or if your city doesn't usually have one, the full name. For example NeuroTech San Francisco would be NeuroTechSF, but Neurotech Lima would be NeuroTechLima)
-
-You will then need a description. Be creative! Something that people in your city or region will identify with. However if you need inspiration, you can use the following to get your brain juices started:
-	
-	| NeuroTech(your_city_abbreviation_here) is part of the NeuroTechX network. This group is to discuss about NeuroTechnology like Brain-Computer Interfaces (BCI). From medical devices to EEG consumer devices like the InteraXon's Muse, the OpenBCI board, the Emotiv's EPOC & Insight, the Neurosky's Mindwave we'll talk about 'reading' the brain. What about 'writing' the brain ? tDCS, TMS, DBS, ... Thync, Foc.us, ...Why not talk about NeuroEthics ? Should we 'zap' our brains ? Drugs can be smart ? Can they make me smarter ?
-	| From Hackers to Researchers we want to provide a framework that will catalyze the growth of the NeuroTech enthusiasts network. We want to raise awareness and engage with people outside these fields that have no idea what's going on in the field of neurotechnology. (If you didn't understand anything described above, but are curious, join us.)
-	| Because each city should have it's own personal NeuroTech community and connect with other NeuroTechX nodes around the world !
-	| Join the Slack discussion and play an active role in the future of DIY NeuroTech. (send a PM message to one of the organizers with your name, email and why you would like to join!)
+2. Select the city you will be hosting the event.  If you make a mistake you will be required to reach out to Meetup and ask them to change it)
 
 
-Once you completed the description for the event, you will need to provide Meetup with the keywords that you want your group to be associated with. For best results, use the following:
+3. You will then need to provide Meetup with the keywords that you want your group to be associated with. For best results, use the following:
 
 
 	- Open Source
@@ -54,6 +47,16 @@ Once you completed the description for the event, you will need to provide Meetu
 	- Man-machine interface
 	- Neuroengineering
 	- Brain-Computer interface
+
+3. You will then be asked to select a name. Please select one that has the format of Neurotech(capitalized abbreviation of your city/town or if your city doesn't usually have one, the full name. For example NeuroTech San Francisco would be NeuroTechSF, but Neurotech Lima would be NeuroTechLima)
+
+You will then need a description. Be creative! Something that people in your city or region will identify with. However if you need inspiration, you can use the following to get your brain juices started:
+	
+	| NeuroTech(your_city_abbreviation_here) is part of the NeuroTechX network. This group is to discuss about NeuroTechnology like Brain-Computer Interfaces (BCI). From medical devices to EEG consumer devices like the InteraXon's Muse, the OpenBCI board, the Emotiv's EPOC & Insight, the Neurosky's Mindwave we'll talk about 'reading' the brain. What about 'writing' the brain ? tDCS, TMS, DBS, ... Thync, Foc.us, ...Why not talk about NeuroEthics ? Should we 'zap' our brains ? Drugs can be smart ? Can they make me smarter ?
+	| From Hackers to Researchers we want to provide a framework that will catalyze the growth of the NeuroTech enthusiasts network. We want to raise awareness and engage with people outside these fields that have no idea what's going on in the field of neurotechnology. (If you didn't understand anything described above, but are curious, join us.)
+	| Because each city should have it's own personal NeuroTech community and connect with other NeuroTechX nodes around the world !
+	| Join the Slack discussion and play an active role in the future of DIY NeuroTech. (send a PM message to one of the organizers with your name, email and why you would like to join!)
+
 
 
 

@@ -70,20 +70,4 @@ If you’d like to sponsor our group, or have us build cool things with your com
 
 
 
-Meetup Topics
-------------------------
-Here is a list of possible topics to discuss when growing a community.
-
-* Brain stimulation and Nootropics
-* Art/music
-* Startups in Neurotechnology
-* VR and Neurotechnology
-* Serious Gaming/Neurogaming
-* Citizen science/ crowdsourcing
-* Neural Ethics
-* The future of Neurotechnologies
-* Clinical BCI
-* BCI in Healthcare
-* Quantified Self 
-* DIY projects Demo Day
 
