@@ -24,6 +24,7 @@ What next
 
    hacknights
    Meetups
+   Growing your Community
    organizational-tips
 
 

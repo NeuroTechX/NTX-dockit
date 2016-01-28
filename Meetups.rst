@@ -3,20 +3,53 @@
 Meetups
 ======
 
-Types of big events you could have:
-*	a technical demonstration for engineers/ scientists
-	* i.e. “let’s show our professors those models we built”
-	* “Public Demo Day” 
-* show and tell for hackers within the group. A few people sign up to give demos or explanations of what they’ve built. “Group Demo Day”
-* large speaker event - scientists, CEOs, etc give talks for a more general audience
+Meetup events one of the core activities you will be doing. So it's important to make sure you do it properly.
 
-Preparations
+Determine your type of event:
+------------------------
+   
+
+
+Types of big events you could have:
+	* A technical demonstration for engineers/ scientists, i.e. “let’s show our professors those models we built”
+	* “Public Demo Day” 
+	* show and tell for hackers within the group. A few people sign up to give demos or explanations of what they’ve built. “Group Demo Day”
+	* large speaker event - scientists, CEOs, etc give talks for a more general audience
+
+If you are short on theme ideas, try the following: 
+
+	* Brain stimulation and Nootropics
+	* Art/music
+	* Startups in Neurotechnology
+	* VR and Neurotechnology
+	* Serious Gaming/Neurogaming
+	* Citizen science/ crowdsourcing
+	* Neural Ethics
+	* The future of Neurotechnologies
+	* Clinical BCI
+	* BCI in Healthcare
+	* Quantified Self 
+	* DIY projects Demo Day
+
+Preparing an event:
 ------------------------
 
-Post to FB, slack, or whatever local channels you have
-Post to Meetup, Eventbrite
+Here is a checklist to follow when putting together a good event:
 
-Decide what your target audience is (see types of events above) . Invite people who will know more of those kinds of people, and encourage people to bring friends. 
+.. raw:: html
+
+	<form action="">
+	<ul>
+		<ol><input type="checkbox"  value="">(5 weeks prior) Choose a Theme</input></ol>
+		<ol><input type="checkbox"  value="">(4 weeks prior) Create the Meetup</input></ol>
+		<ol><input type="checkbox"  value="">(every week) Post on twitter, slack, facebook, other meetup groups..</input></ol>
+		<ol><input type="checkbox"  value="">(4 weeks before) Identify and reach to out to speakers</input></ol>
+		<ol><input type="checkbox"  value="">(4 weeks before) Reach out to list of venues</input></ol>
+		
+		
+	</ul>
+	</form>
+
 
 
 During
@@ -34,3 +67,23 @@ After
 “Thank you all for joining us! 
 If you’d like to get involved in our weekly meetups, (do something).
 If you’d like to sponsor our group, or have us build cool things with your company’s hardware, contact (person)”
+
+
+
+Meetup Topics
+------------------------
+Here is a list of possible topics to discuss when growing a community.
+
+* Brain stimulation and Nootropics
+* Art/music
+* Startups in Neurotechnology
+* VR and Neurotechnology
+* Serious Gaming/Neurogaming
+* Citizen science/ crowdsourcing
+* Neural Ethics
+* The future of Neurotechnologies
+* Clinical BCI
+* BCI in Healthcare
+* Quantified Self 
+* DIY projects Demo Day
+
