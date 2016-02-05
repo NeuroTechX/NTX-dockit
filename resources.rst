@@ -3,10 +3,6 @@
 Resources
 ========
 
-Presentations
-----------
-[Instert Here]
 
-Tutorials
-----------
-[Insert Here]
+We are currently working on NeuroTechEDU, an online wiki that will be able to provide much more content more on the technical side. Stay Tuned!
+

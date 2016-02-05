@@ -41,12 +41,16 @@ Here is a checklist to follow when putting together a good event:
 	<form action="">
 	<ul>
 		<ol><input type="checkbox"  value="">(5 weeks prior) Choose a Theme</input></ol>
-		<ol><input type="checkbox"  value="">(4 weeks prior) Create the Meetup</input></ol>
-		<ol><input type="checkbox"  value="">(every week) Post on twitter, slack, facebook, other meetup groups..</input></ol>
+		<ol><input type="checkbox"  value="">(4 weeks prior) Reach out to list of venues and book a space</input></ol>
+		<ol><input type="checkbox"  value="">(4 weeks prior) Create the Meetup.</input></ol>
 		<ol><input type="checkbox"  value="">(4 weeks before) Identify and reach to out to speakers</input></ol>
 		<ol><input type="checkbox"  value="">(4 weeks before) Reach out to list of venues</input></ol>
+		<ol><input type="checkbox"  value="">(every week) Post on twitter, slack, facebook, other meetup groups..</input></ol>
+		<ol><input type="checkbox"  value="">(2 weeks before) Make sure to post the Location on Meetup if you didn't yet</input></ol>
+		<ol><input type="checkbox"  value="">(1-2 days before or day of) Get food for event</input></ol>
 		
 		
+
 	</ul>
 	</form>
 
@@ -55,19 +59,32 @@ Here is a checklist to follow when putting together a good event:
 During
 ------------------------
 
-Food! Make it a potluck!
 
-Have mechanisms to capture all the interested people
-In person - a laptop in the room with a spreadsheet open 
-Online - on the meetup / facebook / eventbrite page, have a spreadsheet or Google Form
+For the best type of event, make sure you do the following during an event
+
+.. raw:: html
+
+	<form action="">
+	<ul>
+		<ol><input type="checkbox"  value="">Have an event greeter to welcome guests</input></ol>
+		<ol><input type="checkbox"  value="">Have a designated picture taker. If someone has a good camera, see if you can borrow one!</input></ol>
+		<ol><input type="checkbox"  value="">Have a MC to guide the event</input></ol>
+		<ol><input type="checkbox"  value="">Make sure to have your snacks and plates visible to people </input></ol>
+		<ol><input type="checkbox"  value="">Make sure the MC mentions to follow us on twitter and on slack.</input></ol>
+	</ul>
+	</form>
+
+
 
 After
 ------------------------
 
-“Thank you all for joining us! 
-If you’d like to get involved in our weekly meetups, (do something).
-If you’d like to sponsor our group, or have us build cool things with your company’s hardware, contact (person)”
+.. raw:: html
 
-
-
+	<form action="">
+	<ul>
+		<ol><input type="checkbox"  value="">Send a Thank you message for dropping by on Meetup</input></ol>
+		<ol><input type="checkbox"  value="">Reiterate if they would like to get involved, how they can reach out</input></ol>
+	</ul>
+	</form>
 

@@ -14,8 +14,8 @@ When you sign up to create a chapter, we will help you in creating the following
 
 	<form action="">
 	<ul>
-		<ol><input type="checkbox"  value="">A NeuroTechX email</input></ol>
 		<ol><input type="checkbox"  value="">Access to your city Google Drive folder to store your meetup pictures and information</input></ol>
+		<ol><input type="checkbox"  value="">A City Mastersheet to help you keep track of speakers, venues, etc</input></ol>
 		<ol><input type="checkbox"  value="">A Meetup page to be used to manage your community</input></ol>
 		<ol><input type="checkbox"  value="">Your cities Twitter account</input></ol>
 		<ol><input type="checkbox"  value="">A private admin channel on slack</input></ol>	
@@ -36,17 +36,21 @@ Although it will likely be taken care of you, in certain situations you may need
 
 3. You will then need to provide Meetup with the keywords that you want your group to be associated with. For best results, use the following:
 
-
+	- Brain-Computer interface
 	- Open Source
 	- Innovation
 	- Neuroscience
 	- Education & Technology
 	- New Technology
 	- Quantified Self
+	- Brain
+	- Neurotechnology
+	- bionics
+	- Cognitive Neuroscience
 	- DIY Technology
-	- Man-machine interface
+	- Man-machine integration
 	- Neuroengineering
-	- Brain-Computer interface
+
 
 4. You will then be asked to select a name. Please select one that has the format of Neurotech(capitalized abbreviation of your city/town or if your city doesn't usually have one, the full name. For example NeuroTech San Francisco would be NeuroTechSF, but Neurotech Lima would be NeuroTechLima)
 

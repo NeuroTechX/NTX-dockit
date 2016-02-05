@@ -1,16 +1,19 @@
 .. _social-media:
 
-Social Media
+NeurotechX social Media
 ========
 
 Twitter
 ----------
-[Instert Here]
+Here are a list of different city Chapters Twitter:
+
+
 
 Facebook
 ----------
-[Insert Here]
+Our Facebook Page
+
+Our Facebook Group
 
 Youtube
 ----------
-[Insert Here]

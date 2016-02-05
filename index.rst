@@ -7,23 +7,24 @@ Release v\ |version| (:doc:`What's new? <changelog>`).
    :start-after: :orphan:
 
 
-First Steps
+Getting to know NeurotechX
 ----------
 
 .. toctree::
 
    about
-   getting-started
    Conduct
-   First Event
+   
 
 What next     
 -----------
 
 .. toctree::
 
-   hacknights
+   getting-started
+   first-event
    Meetups
+   hacknights
    Growing your Community
    organizational-tips
 
@@ -43,7 +44,5 @@ Extras
 
 .. toctree::
 	
-   history
    contact
-   swag
    resources

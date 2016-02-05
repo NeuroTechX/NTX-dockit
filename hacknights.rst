@@ -4,7 +4,12 @@
 ======
 
 
+For your hacknights, depending on the level of technical experience that you have as a group, you may need to build up your own skill level or bring in people who can handle that side.
+A good schedule to have through the year would be something like the following:
 
+	* Introductory to BCI tutorial (every 3-4 months)
+	* Create an open source group with 4-5 members of the community
+	* Provide more advanced topics tutorials	 
 
 
 
@@ -14,7 +19,19 @@
 Preparations
 ------------------------
 
-Post to FB, slack, or whatever local channels you have
+.. raw:: html
+
+	<form action="">
+	<ul>
+		<ol><input type="checkbox"  value="">(3 weeks) Determine Theme</input></ol>
+		<ol><input type="checkbox"  value="">(3 weeks) Market to Meetup with date</input></ol>
+		<ol><input type="checkbox"  value="">Make sure people introduce themselves at the event</input></ol>
+		<ol><input type="checkbox"  value="">Break into group </input></ol>
+
+	</ul>
+	</form>
+
+
 
 During
 ------------------------
