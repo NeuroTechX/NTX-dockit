@@ -1,14 +1,25 @@
 .. _contact:
 
-Contact
+Contacts
 ======
 
-
-Join our Slack - neurotechx.com/#community
 
 Admins on slack
 ------------------------
 
+The best way to reach us is to go to neurotechx.com/#community and join us on Slack
+
+Some of the admins you can reach out to are:
+
+* sydneyneurotechx
+* yannick
+* melanie
 
 
-or send us an email - info@neurotechx.com
+Email
+------------------------
+
+If you prefer to reach us by email, feel free to contact us at info@neurotechx.com
+
+
+
