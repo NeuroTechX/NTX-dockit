@@ -1,3 +1,0 @@
-.. _swag:
-
-Placeholder for now

@@ -25,8 +25,7 @@ What next
    first-event
    Meetups
    hacknights
-   Growing your Community
-
+   community-growth
 
 
 Events
@@ -34,8 +33,6 @@ Events
 
 .. toctree::
 
-   website
-   newsletter
    social-media
 
 

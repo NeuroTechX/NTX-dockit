@@ -1,7 +1,7 @@
 .. _community:
 
 Growing your Community
-=====
+======
 
  This section is dedicated to ressources you should be aware of as a Network builder. If you are looking to create the best community out there, you should take a look at the following books and ressources:
 
@@ -10,8 +10,8 @@ Growing your Community
 * `The Art of Community: Building the New Age of Participation <http://www.amazon.ca/The-Art-Community-Building-Participation/dp/1449312063>`_
 * `Startup Communities: Building an Entrepreneurial Ecosystem in Your City <http://www.amazon.ca/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1480563854>`_
 
- General Organizational Tips
-======
+General Organizational Tips
+----------
 
 * Have ONE (1) point person for each outcome / component of the meetup. As the organizer, your life will be less hectic, and the events will run more smoothly, if you delegate as much as you can to a core group of co-conspirators. Co-conspirators often wear multiple “hats” - are the point person for multiple outcomes. Tips: You can give team roles fun names evoking sci-fi / fantasy flavors or other silliness. Describe responsibilities in terms of clearly defined high-level outcomes (not only tasks), to allow for individuals to notice things you didn’t and find creative solutions. 
 	* Examples from Demo Day large event: 

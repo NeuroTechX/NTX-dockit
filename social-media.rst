@@ -5,15 +5,13 @@ NeurotechX social Media
 
 Twitter
 ----------
-Here are a list of different city Chapters Twitter:
-
+Details coming soon
 
 
 Facebook
 ----------
-Our Facebook Page
-
-Our Facebook Group
+Details coming soon
 
 Youtube
 ----------
+Details coming soon

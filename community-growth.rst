@@ -1,7 +1,17 @@
-.. _organizational-tips:
+.. _community:
+
+Growing your Community
+======
+
+ This section is dedicated to ressources you should be aware of as a Network builder. If you are looking to create the best community out there, you should take a look at the following books and ressources:
+
+* `25 best practices for Meetups <http://www.mikeschinkel.com/blog/25-best-practices-for-meetup-organizers>`_
+* `Exponential Organizations <http://www.amazon.ca/Exponential-Organizations-organizations-better-cheaper-ebook/dp/B00OO8ZGC6>`_
+* `The Art of Community: Building the New Age of Participation <http://www.amazon.ca/The-Art-Community-Building-Participation/dp/1449312063>`_
+* `Startup Communities: Building an Entrepreneurial Ecosystem in Your City <http://www.amazon.ca/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1480563854>`_
 
 General Organizational Tips
-======
+----------
 
 * Have ONE (1) point person for each outcome / component of the meetup. As the organizer, your life will be less hectic, and the events will run more smoothly, if you delegate as much as you can to a core group of co-conspirators. Co-conspirators often wear multiple “hats” - are the point person for multiple outcomes. Tips: You can give team roles fun names evoking sci-fi / fantasy flavors or other silliness. Describe responsibilities in terms of clearly defined high-level outcomes (not only tasks), to allow for individuals to notice things you didn’t and find creative solutions. 
 	* Examples from Demo Day large event: 
@@ -11,3 +21,4 @@ General Organizational Tips
 * Technologies are cool and are what brings most people into the door. (“I can code and I’m interested in brains.”) Personal ownership, social dynamics, and important problems are what keeps people there. (“I love being apart of a team of people I like and respect, working on a project that will be useful to the outside world, and I’m learning / working on an exciting challenge / getting stronger in the process”). 
 * A group will grow to the extent that its members have a sense of personal stake/ ownership in it. Articulate how the group’s mission connects to each person’s individual missions / incentives. 
 * When thinking about technology design, don’t only automatically extend the existing technologies; start with the problem that you want to solve, and then match it to the kinds of tools you can use to solve it. 
+ 
