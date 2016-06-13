@@ -22,3 +22,58 @@ General Organizational Tips
 * A group will grow to the extent that its members have a sense of personal stake/ ownership in it. Articulate how the group’s mission connects to each person’s individual missions / incentives. 
 * When thinking about technology design, don’t only automatically extend the existing technologies; start with the problem that you want to solve, and then match it to the kinds of tools you can use to solve it. 
  
+
+Organizing your time in the Chapter
+----------
+
+Create a schedule where you incorporate 6-12 events a year.
+
+Have one community project to work on with an end goal.
+
+		The best types of projects are those that involve outside groups (other tech communities, small companies ). Don't commit to something you can't complete. `Scrum <https://en.wikipedia.org/wiki/Scrum_(software_development)>`_ is a good methodology to help manage a project
+		
+		
+		
+	
+	
+	Aim to do an event at least every 2 months. Focusing on quality versus quantity is important as if a person dislikes the event, it's likely they won't come back. Spend the rest of your time working on a group project, to keep things focused. 
+	
+	For best community building- have an activity which you can locally work together on something and then aim to release it to a larger community. `The art of Commmunity is a great read <http://www.amazon.ca/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1480563854>`_ with some great details on how to grow your open source community.
+	
+	
+
+
+Adding new Admins to the Chapter
+----------
+
+Before just adding anyone to become a chapter admin, you should ask yourself yourself the following questions: 
+
+	Do they have the time?
+	Can they meet the expectations?
+	Do you think you can work well with them?
+
+	
+
+Dealing with Toxic Community Members/Admins
+----------
+	
+	Before doing anything too harsh. Ask yourself the following:
+		Is it a style clash or actual toxic behavior.
+		Are you or others enabling the problem?
+		Do you have the wrong perspective of the person?
+		
+	
+	
+	
+	Learn to empathisize and not criticize. 
+	
+	Set certain boundaries of what is acceptable and what is not.
+	
+	Focus on the behaviors problems and not the people.
+	
+
+	
+	Jeremy Clarkson effect (https://blog.vanillaforums.com/help/how-to/dealing-with-toxic-community-member/)
+	
+	
+	

@@ -46,9 +46,10 @@ Although it will likely be taken care of you, in certain situations you may need
 	- Brain
 	- Neurotechnology
 	- bionics
-	- Cognitive Neuroscience
+	- Technology
 	- DIY Technology
-	- Man-machine integration
+	- man-machine interface
+	- Man-machine Integration
 	- Neuroengineering
 
 
@@ -56,11 +57,11 @@ Although it will likely be taken care of you, in certain situations you may need
 
 5. You will then need a description. Be creative! Something that people in your city or region will identify with. However if you need inspiration, you can use the following to get your brain juices started:
 	
-	| NeuroTech(your_city_abbreviation_here) is part of the NeuroTechX network. This group is to discuss about NeuroTechnology like Brain-Computer Interfaces (BCI). From medical devices to EEG consumer devices like the InteraXon's Muse, the OpenBCI board, the Emotiv's EPOC & Insight, the Neurosky's Mindwave we'll talk about 'reading' the brain. What about 'writing' the brain ? tDCS, TMS, DBS, ... Thync, Foc.us, ...Why not talk about NeuroEthics ? Should we 'zap' our brains ? Drugs can be smart ? Can they make me smarter ?
-	| From Hackers to Researchers we want to provide a framework that will catalyze the growth of the NeuroTech enthusiasts network. We want to raise awareness and engage with people outside these fields that have no idea what's going on in the field of neurotechnology. (If you didn't understand anything described above, but are curious, join us.)
-	| Because each city should have it's own personal NeuroTech community and connect with other NeuroTechX nodes around the world !
-	| Join the Slack discussion and play an active role in the future of DIY NeuroTech. (send a PM message to one of the organizers with your name, email and why you would like to join!)
-
+	| Hello brainiacs of the world! NeuroTechDC is the Washington D.C. chapter of NeuroTechX, a global network of engineers, designers, scientists, and hackers devoted to discovering the countless mysteries of the human brain and nervous system!
+	| From medical to consumer devices, we'll talk about 'reading' and 'writing' the brain. (e.g. EEG, tDCS, TMS, DBS, ...) We'll discuss about the technology and science, but also its impact on our society and the ethics.
+	| From Hackers to Researchers we want to provide a framework that will catalyze the growth of the neurotech enthusiasts network. If you call yourself a cyborg, neurohacker, neuroengineer, neurodesigner, a BCI evangelist, or if you want to learn what any/all of those words/phrases mean, come to our next hack night!
+    | --
+	|Join the conversation on Slack, Facebook & Twitter and play an active role in the future of neurotechnology.
 
 
 
@@ -77,6 +78,13 @@ Color Palette:
 	* Buttons: #0fbbf3
 	
 The banner image and profile picture can be found in your Neurotech assets folder and are conveniently labeled. 		
-	
 
-Once you're meetup page is completed, you are ready to start your first event! 
+
+Designing your twitter page	    
+-----------
+
+You will also be looking to make your twitter page match with the NeurotechX colors.
+
+Color Palette:
+	* Theme Color: #23b2c6
+	
