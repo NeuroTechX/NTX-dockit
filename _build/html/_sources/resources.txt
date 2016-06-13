@@ -3,6 +3,4 @@
 Resources
 ========
 
-
-We are currently working on NeuroTechEDU, an online wiki that will be able to provide much more content more on the technical side. Stay Tuned!
-
+`For awesome content check out our awesome bci list on our Github <github.com/NeuroTechX/awesome-bci>`_

@@ -13,7 +13,7 @@ Getting to know NeurotechX
 .. toctree::
 
    about
-   expectations
+   Expectations
    Conduct
    
 

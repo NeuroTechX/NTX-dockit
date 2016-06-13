@@ -5,13 +5,18 @@ NeurotechX social Media
 
 Twitter
 ----------
-Details coming soon
+`@NeuroTechX <https://twitter.com/neurotechx>`_
 
 
 Facebook
 ----------
-Details coming soon
+`NeuroTechX Facebook Page <https://www.facebook.com/neurotechx>`_
 
 Youtube
 ----------
-Details coming soon
+`Our Youtube Channel <https://www.youtube.com/channel/UC_RHsfTLVXWnIvL8nnp-jHw>`_
+
+
+Github
+----------
+`Our Github page <https://github.com/NeuroTechX>`_

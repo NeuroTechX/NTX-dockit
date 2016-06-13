@@ -46,34 +46,51 @@ Have one community project to work on with an end goal.
 Adding new Admins to the Chapter
 ----------
 
-Before just adding anyone to become a chapter admin, you should ask yourself yourself the following questions: 
+Before just adding anyone to become a chapter admin, you should ask yourself yourself the following.
 
-	Do they have the time?
-	Can they meet the expectations?
-	Do you think you can work well with them?
+	* Can they meet the :doc:`Expectations`. 
+	* Would encourage innovation new initiatives. 
+	* Are they comfortable with talking with people.
+	* If you think you can work well with them?
+	
 
 	
 
 Dealing with Toxic Community Members/Admins
 ----------
 	
-	Before doing anything too harsh. Ask yourself the following:
-		Is it a style clash or actual toxic behavior.
-		Are you or others enabling the problem?
-		Do you have the wrong perspective of the person?
+	The time may come when, there might be some people who may do more harm than good for the community. Certain characteristics of a toxic member includes:
+
+		- Constantly causing fights or bad mouthing other members
+		- Constantly Expresses information which is not not scientific in merit and is pseudoscience 
+		- Alienating or belittling new people who may not be as informed as them.
+		
+	
+	Before doing anything, ask yourself the following:
+		
+		- Why do I believer that he/she is toxic? Is it a style clash or actual toxic behavior?
+		- Are you or others enabling the problem?
+		- Do you have the wrong perspective of the person?
 		
 	
 	
 	
-	Learn to empathisize and not criticize. 
 	
-	Set certain boundaries of what is acceptable and what is not.
-	
-	Focus on the behaviors problems and not the people.
-	
+	If you still believe that you are dealing with a toxic member, try the following approach to resolve the issue. 
+		- Have a sitdown meeting with all of the team.
+			- Focus on the behaviors problems that they are exhibiting and not the person.
+			- Learn to empathisize and not criticize. In many cases people may not be aware of their actions 
+			- Set certain boundaries of what is acceptable and what is not that everyone can agree with.
+			
 
 	
-	Jeremy Clarkson effect (https://blog.vanillaforums.com/help/how-to/dealing-with-toxic-community-member/)
+	If the problem persists, provide one more additional warning before removing them completely from Admin. In order to do this, please email Sydney@neurotechx.com or Message sydneyneurotechx on Slack.
+
+	
+	An interesting thing to consider is sometimes in tech communities you can observe the `Jeremy Clarkson effect <https://blog.vanillaforums.com/help/how-to/dealing-with-toxic-community-member/>`_ 
+	Which is where a person who has a high level of knowledge or is charismatic in nature may start to belittle newcomers and/or show bad behavior. In your case, it better to 
+	remove the person, if they won't adjust. Otherwise your community will remain small and won't grow as newcomers won't feel comfortable in staying. Even if you lose the knowledgebase, you'll discover that they can
+	be replaced with time.
 	
 	
 	
