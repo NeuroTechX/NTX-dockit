@@ -40,7 +40,8 @@ Here is a checklist to follow when putting together a good event:
 
 	<form action="">
 	<ul>
-		<ol><input type="checkbox"  value="">(5 weeks prior) Choose a Theme</input></ol>
+		<ol><input type="checkbox"  value="">(5 weeks prior) Choose a theme, identify speakers and potential dates</input></ol>
+		<ol><input type="checkbox"  value="">(4 weeks prior) Create the preliminary agenda </input></ol>
 		<ol><input type="checkbox"  value="">(4 weeks prior) Reach out to list of venues and book a space</input></ol>
 		<ol><input type="checkbox"  value="">(4 weeks prior) Create the Meetup.</input></ol>
 		<ol><input type="checkbox"  value="">(4 weeks before) Identify and reach to out to speakers</input></ol>

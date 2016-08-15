@@ -4,22 +4,40 @@ Contacts
 ======
 
 
-Admins on slack
+
+Directors Contact Information
 ------------------------
+If you need to reach out to the directors of NeuroTechX, their information can be found below.
 
-The best way to reach us is to go to neurotechx.com/#community and join us on Slack
+Executive Director:
+	| Email: yannick@neurotechx.com
+	| Slack: @yannick
 
-Some of the admins you can reach out to are:
+International (Connectome):
+	| Email: sydney@neurotechx.com
+	| Slack: @sydneyneurotechx
+	
+Operations:	
+	| Email: marion@neurotechx.com
+	| Slack: @marion
 
-* sydneyneurotechx
-* yannick
-* melanie
+Science:
+	| Email: melanie@neurotechx.com
+	| Slack: @melanie
 
+Marketing: 
+	| Email: griselda@neurotechx.com
+	| Slack: @griselda_pages
 
-Email
-------------------------
+Communications:
+	| Email: lucia@neurotechx.com
+	| Slack: @lucia.gallardo
 
-If you prefer to reach us by email, feel free to contact us at info@neurotechx.com
+Finance:
+	| Email: ferdinand@neurotechx.com
+	| Slack: @eferdinand 
+
+	
 
 
 
