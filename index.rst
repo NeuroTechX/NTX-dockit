@@ -15,9 +15,15 @@ Getting to know NeurotechX
    about
    Expectations
    Conduct
-   
 
-What next     
+Chapter Guidelines & Expectations
+----------
+
+.. toctree::
+
+  chapter-guidelines
+
+What next
 -----------
 
 .. toctree::
@@ -41,6 +47,6 @@ Extras
 ------
 
 .. toctree::
-	
+
    contact
    resources
