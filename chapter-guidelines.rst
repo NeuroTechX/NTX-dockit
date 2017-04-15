@@ -153,7 +153,7 @@ Don't get scared by the number of things listed here. Once you have a solid team
 	In order to benefit the different players in your local neurotech ecosystem, the chapter should help to facilitate recruitment & match making for both industry & academia opportunities. As more and more people gravitate around the chapter, more and more opportunities will start appearing and the NTX local chapter is expected to keep that aspect in mind as part of NeuroTechX mission to accelerate the field. NTX is currently exploring a macro solution (job posting board, match making/recruitment services, etc.), but before a macro solution is put forward, the local chapter can explore their own solutions. As a good example, NeuroTechTO started announcing job opportunities in their Monthly-ish Meetup communication. Very simple, and help put the spotlight on your chapter so that companies contact you to showcase their job opportunities. (it will help for sponsorships and partnerships down the road)
 
 	* **Each event**
-	A chapter should do the following for each event (please see the NTX Event Checklist [insert link here]):
+	A chapter should do the following for each event (please see the <a href="#meetups">NTX Event Checklist</a>):
 
 		* Marketing Before the event (announce it via different channels)
 		* Invite People to Subscribe to our Newsletter during the event (NTX strength is also its reach - we need everyone's help)

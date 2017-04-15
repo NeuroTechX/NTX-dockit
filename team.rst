@@ -5,41 +5,72 @@ Team
 
 Montreal
 ----------
-Yannick Roy
-Sydney Swaine-Simon
-Ferdinand Ephrem
-Melanie Segado
-
-San Fancisco
-----------
-Marion Le Borgne
-John Naulty
-William
-Pierre
-Octavian
-
-New York
-----------
-Conor Russomanno
-Teon Brooks
+[Coming Soon]
 
 Toronto
 ----------
-Bryan 
-Kushbu
+[Coming Soon]
+
+Vancouver
+----------
+[Coming Soon]
+
+Kitchener-Waterloo
+----------
+[Coming Soon]
+
+Ottawa
+----------
+[Coming Soon]
+
+San Fancisco
+----------
+[Coming Soon]
+
+New York
+----------
+[Coming Soon]
 
 Boston
 ----------
-TBD
+[Coming Soon]
+
+Los Angeles
+----------
+[Coming Soon]
+
+Washington DC
+----------
+[Coming Soon]
+
+London
+----------
+[Coming Soon]
 
 Amsterdam
 ----------
-TBD
+[Coming Soon]
 
 Paris
 ----------
-TBD
+[Coming Soon]
+
+Munich
+----------
+[Coming Soon]
+
+Barcelona
+----------
+[Coming Soon]
 
 Tel Aviv
 ----------
-TBD
+[Coming Soon]
+
+Singapore
+----------
+[Coming Soon]
+
+Lima
+----------
+[Coming Soon]

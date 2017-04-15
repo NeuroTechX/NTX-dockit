@@ -1,6 +1,6 @@
 .. _social-media:
 
-NeurotechX social Media
+NeuroTechX Social Media
 ========
 
 Twitter
@@ -11,6 +11,7 @@ Twitter
 Facebook
 ----------
 `NeuroTechX Facebook Page <https://www.facebook.com/neurotechx>`_
+`NeuroTechX Facebook Group <https://www.facebook.com/groups/NeuroTechX/>`_
 
 Youtube
 ----------

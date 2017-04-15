@@ -1,12 +1,10 @@
 .. _contact:
 
 Contacts
-======
-
-
+========
 
 Directors Contact Information
-------------------------
+-----------------------------
 If you need to reach out to the directors of NeuroTechX, their information can be found below.
 
 Executive Director:
@@ -16,18 +14,18 @@ Executive Director:
 International (Connectome):
 	| Email: sydney@neurotechx.com
 	| Slack: @sydneyneurotechx
-	
-Operations:	
-	| Email: marion@neurotechx.com
-	| Slack: @marion
+
+Operations:
+	| Email: N/A	[Currently Open Position]
+	| Slack: N/A
 
 Science:
 	| Email: melanie@neurotechx.com
 	| Slack: @melanie
 
-Marketing: 
-	| Email: griselda@neurotechx.com
-	| Slack: @griselda_pages
+Marketing:
+	| Email: N/A	[Currently Open Position]
+	| Slack: N/A
 
 Communications:
 	| Email: lucia@neurotechx.com
@@ -35,9 +33,9 @@ Communications:
 
 Finance:
 	| Email: ferdinand@neurotechx.com
-	| Slack: @eferdinand 
-
-	
+	| Slack: @eferdinand
 
 
-
+Chapter Coordinators (admins)
+-----------------------------
+To see the local chapter coordinators (aka admins) see the <a href="#team">Team</a> page.

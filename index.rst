@@ -1,52 +1,43 @@
 NeuroTechX
-========
+==========
 
-Release v\ |version| (:doc:`What's new? <changelog>`).
-
-.. include:: intro.rst
-   :start-after: :orphan:
+NTX-DocKit v\ |version|
 
 
 Getting to know NeurotechX
-----------
+--------------------------
 
 .. toctree::
 
    about
-   Expectations
-   Conduct
+   initiatives
+   contact
+   conduct
 
-Chapter Guidelines & Expectations
-----------
+
+Running a Chapter
+------------------
 
 .. toctree::
 
   chapter-guidelines
+  getting-started
+  social-media
 
-What next
------------
-
-.. toctree::
-
-   getting-started
-   first-event
-   Meetups
-   hacknights
-   community-growth
-
-
-Events
-------------
+Growing a Community
+-----------------
 
 .. toctree::
 
-   social-media
+  community-growth
+  meetups
+  hacknights
 
 
-Extras
-------
+Extra
+-----
 
 .. toctree::
 
-   contact
-   resources
+  resources
+  FAQ
