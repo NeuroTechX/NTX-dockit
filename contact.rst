@@ -38,4 +38,4 @@ Finance:
 
 Chapter Coordinators (admins)
 -----------------------------
-To see the local chapter coordinators (aka admins) see the <a href="#team">Team</a> page.
+To see the local chapter coordinators (aka admins) see the `team`_ page.

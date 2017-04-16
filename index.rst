@@ -4,7 +4,7 @@ NeuroTechX
 NTX-DocKit v\ |version|
 
 
-Getting to know NeurotechX
+Getting to know NeuroTechX
 --------------------------
 
 .. toctree::

@@ -1,7 +1,7 @@
 .. _getting-started:
 
 Getting Started
-======
+===============
 
 If you are interested in creating a chapter in your city, please fill out the following  `form <http://goo.gl/forms/HFqTewsKTn>`_ to let us know.
 
@@ -24,8 +24,7 @@ When you sign up to create a chapter, we will help you in creating the following
 
 
 Setting up the Meetup Page
------------
-
+--------------------------
 
 Although it will likely be taken care of you, in certain situations you may need to set it up yourself.  Here is a step by step guide on what to do.
 
@@ -56,11 +55,11 @@ Although it will likely be taken care of you, in certain situations you may need
 
 5. You will then need a description. Be creative! Something that people in your city or region will identify with. However if you need inspiration, you can use the following to get your brain juices started:
 
-	| Hello brainiacs of the world! NeuroTechDC is the Washington D.C. chapter of NeuroTechX, a global network of engineers, designers, scientists, and hackers devoted to discovering the countless mysteries of the human brain and nervous system!
-	| From medical to consumer devices, we'll talk about 'reading' and 'writing' the brain. (e.g. EEG, tDCS, TMS, DBS, ...) We'll discuss about the technology and science, but also its impact on our society and the ethics.
-	| From Hackers to Researchers we want to provide a framework that will catalyze the growth of the neurotech enthusiasts network. If you call yourself a cyborg, neurohacker, neuroengineer, neurodesigner, a BCI evangelist, or if you want to learn what any/all of those words/phrases mean, come to our next hack night!
-    | --
-	|Join the conversation on Slack, Facebook & Twitter and play an active role in the future of neurotechnology.
+	| *Hello brainiacs of the world! NeuroTechDC is the Washington D.C. chapter of NeuroTechX, a global network of engineers, designers, scientists, and hackers devoted to discovering the countless mysteries of the human brain and nervous system!*  
+	| *From medical to consumer devices, we'll talk about 'reading' and 'writing' the brain. (e.g. EEG, tDCS, TMS, DBS, ...) We'll discuss about the technology and science, but also its impact on our society and the ethics.*  
+	| *From Hackers to Researchers we want to provide a framework that will catalyze the growth of the neurotech enthusiasts network. If you call yourself a cyborg, neurohacker, neuroengineer, neurodesigner, a BCI evangelist, or if you want to learn what any/all of those words/phrases mean, come to our next hack night!*  
+	| --
+	| *Join the conversation on Slack, Facebook & Twitter and play an active role in the future of neurotechnology.*   
 
 
 
