@@ -1,6 +1,6 @@
 .. _initiatives:
 
-NTX Initiatives
+Initiatives
 =====
 NeuroTechX is devoted to facilitate the advancement of neurotechnology with its bottom-up approach. In order to do so, our activities, services and products are categorized under what we call *initiatives*.
 When we launch a new initiative, we always keep our 3 main pillars (community, education & innovation) and our vision in mind. Here are the current focus of NeuroTechX.

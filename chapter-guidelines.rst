@@ -1,6 +1,6 @@
 .. _chapter-guidelines:
 
-NTX Chapter Guidelines
+Chapter Guidelines
 ======================
 
 NTX Chapter's Mission Statement
