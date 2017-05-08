@@ -8,11 +8,11 @@ Directors Contact Information
 If you need to reach out to the directors of NeuroTechX, their information can be found below.
 
 Executive Director:
-	| Email: yannick@neurotechx.com
+	| Email: yannick at [organization name].com
 	| Slack: @yannick
 
 International (Connectome):
-	| Email: sydney@neurotechx.com
+	| Email: sydney at [organization name].com
 	| Slack: @sydneyneurotechx
 
 Operations:
@@ -20,7 +20,7 @@ Operations:
 	| Slack: N/A
 
 Science:
-	| Email: melanie@neurotechx.com
+	| Email: melanie at [organization name].com
 	| Slack: @melanie
 
 Marketing:
@@ -28,11 +28,11 @@ Marketing:
 	| Slack: N/A
 
 Communications:
-	| Email: lucia@neurotechx.com
+	| Email: lucia at [organization name].com
 	| Slack: @lucia.gallardo
 
 Finance:
-	| Email: ferdinand@neurotechx.com
+	| Email: ferdinand at [organization name].com
 	| Slack: @eferdinand
 
 

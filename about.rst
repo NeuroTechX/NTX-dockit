@@ -6,13 +6,11 @@ NeuroTechX brings hackers, enthusiasts and experts together to drive innovation 
 
 Vision
 ------
-We live in an amazing time in history and we are redefining our relationship with technology. 
-[more soon] 
+We strive to create an inclusive and collaborative ecosystem of researchers, experts, hackers and enthusiasts and to provide accessible resources and learning opportunities for all.
 
 Mission
 --------
-NeuroTechX' mission is to facilitate the advancement of neurotechnology.
-[more soon] 
+NeuroTechX is a non-profit organization whose mission is to facilitate the advancement of neurotechnology by providing key resources and learning opportunities, and by being leaders in local and world-wide technological initiatives.
 
 Pillars
 -------
@@ -20,12 +18,14 @@ Pillars
 1. Community - We focus on people.
 2. Education - We focus on knowledge.
 3. Innovation - If we are successful in 1 & 2, innovation will naturally emerge.
-[more soon]
+
 
 Values, Ethics & Integrity
 --------------------------
 It is important for NeuroTechX to remain unbiased. 
 NeuroTechX has no commercial interests, but do offer services and have partnerships and sponsorships.
+
+
 [more soon]
 
 

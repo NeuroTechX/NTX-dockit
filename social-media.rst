@@ -1,6 +1,6 @@
 .. _social-media:
 
-NeuroTechX Social Media
+NTX Social Media
 =======================
 
 Twitter
