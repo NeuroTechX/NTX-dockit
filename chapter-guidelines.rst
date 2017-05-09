@@ -294,7 +294,8 @@ Lessons Learned (2015-2016)
 5. **Pain & Friction.**
 
 	The most common pain points for a chapter (what we've learned from 2016) are the following:
-	* Venue ($)
+	
+  * Venue ($)
 	* Content (Slides, Tutorials, Projects, etc.)
 	* Engagement
 	* Time
@@ -302,7 +303,8 @@ Lessons Learned (2015-2016)
 	* Expectation
 	* Communication
 	* Feel Disconnected from NTX
-	NTX is currently working on all these pain points, by (1) putting a framework with a "perfect basic recipe for a successful chapter" (this is the first draft of it). (2) Increase communication between chapters with the monthly reports and 1-2 new activity that will shortly be announced in 2017. (3) Create content ready and easy to use; Presentations, Tutorials, Workshops, etc. (4) Focusing on the money aspect of NeuroTechX, which wasn't a priority in 2016.
+	
+  NTX is currently working on all these pain points, by (1) putting a framework with a "perfect basic recipe for a successful chapter" (this is the first draft of it). (2) Increase communication between chapters with the monthly reports and 1-2 new activity that will shortly be announced in 2017. (3) Create content ready and easy to use; Presentations, Tutorials, Workshops, etc. (4) Focusing on the money aspect of NeuroTechX, which wasn't a priority in 2016.
 
 
 6. **General**
