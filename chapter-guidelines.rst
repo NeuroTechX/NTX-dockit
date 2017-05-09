@@ -239,8 +239,7 @@ Don't get scared by the number of things listed here. Once you have a solid team
 
 
 4. **Support**
-
-	NeuroTechX is providing the following resources to its chapters:
+  NeuroTechX is providing the following resources to its chapters:
   
 	* International Brand
 	* Presentations on Neurotechnology "hot" Topics.
@@ -254,20 +253,17 @@ Don't get scared by the number of things listed here. Once you have a solid team
 
 
 5. **Funding / Money / Sponsorships**
-
-	A Chapter is usually bootstrapped at the beginning. For the first 2 events, the chapter is expected to find a venue partner, a sponsor and/or charge a small entry fee to cover the event cost. After 2 bootstrapped events, a strategy for money & sponsorship can be discussed for the longer term in order to ensure the sustainability and scalabity of the chapter.
+  A Chapter is usually bootstrapped at the beginning. For the first 2 events, the chapter is expected to find a venue partner, a sponsor and/or charge a small entry fee to cover the event cost. After 2 bootstrapped events, a strategy for money & sponsorship can be discussed for the longer term in order to ensure the sustainability and scalabity of the chapter.
 	*(You'll see after 2 events. You will feel the magic and will want to do more. You will want to do bigger events, have a bigger impact, have more resources, etc.)*
 
 
 6. **NTX Services**
-
-	NeuroTechX is now in a good position to consider offering services like recruitment. More and more people are gravitating around NeuroTechX and looking for opportunities and more opportunities are also available, we think we can help facilitating that process and that match making.
+  NeuroTechX is now in a good position to consider offering services like recruitment. More and more people are gravitating around NeuroTechX and looking for opportunities and more opportunities are also available, we think we can help facilitating that process and that match making.
 	*(We are currently exploring this service we could offer)*
 
 
 7. **NTX Knowledge**
-
-	As mentioned earlier, part of NeuroTechX' strength is its knowledge of the field and the ecosystem - locally and internationally. This is why we all work together to nuture that shared knowledge.
+  As mentioned earlier, part of NeuroTechX' strength is its knowledge of the field and the ecosystem - locally and internationally. This is why we all work together to nuture that shared knowledge.
 
 
 Lessons Learned (2015-2016)
@@ -292,24 +288,23 @@ Lessons Learned (2015-2016)
         
         
 5. **Pain & Friction.**
-
 	The most common pain points for a chapter (what we've learned from 2016) are the following:
 	
+  * Time
   * Venue ($)
-	* Content (Slides, Tutorials, Projects, etc.)
-	* Engagement
-	* Time
-	* Sponsorship
-	* Expectation
-	* Communication
-	* Feel Disconnected from NTX
-	
+  * Content (Slides, Tutorials, Projects, etc.)
+  * Engagement
+  * Sponsorship
+  * Expectation
+  * Communication
+  * Feel Disconnected from NTX
+  
   NTX is currently working on all these pain points, by (1) putting a framework with a "perfect basic recipe for a successful chapter" (this is the first draft of it). (2) Increase communication between chapters with the monthly reports and 1-2 new activity that will shortly be announced in 2017. (3) Create content ready and easy to use; Presentations, Tutorials, Workshops, etc. (4) Focusing on the money aspect of NeuroTechX, which wasn't a priority in 2016.
 
 
 6. **General**
-	The idea is spot on. Something was missing in the neurotech ecosystem, that’s why we are growing.
-	People are looking for more… Now, the challenge is to create an inclusive community while maintaining a certain level of quality. We knew from day 1 that "creating an international network to facilitate the advancement of neurotechnology" wasn't an easy task. 
+  The idea is spot on. Something was missing in the neurotech ecosystem, that’s why we are growing.
+  People are looking for more… Now, the challenge is to create an inclusive community while maintaining a certain level of quality. We knew from day 1 that "creating an international network to facilitate the advancement of neurotechnology" wasn't an easy task. 
   
   Day after day we're having a greater impact and more people gravitating around NeuroTechX (1) learned, (2) met awesome people, (3) worked on projects, (4) got opportunities, (5) got visibility, (6) attended international events, (7) hired people, (8) started a business, etc.
-	It's been hell of a journey so far and it's only the beginning. We're learning and getting better, so we're all excited to see where NeuroTechX will be in 2 years or even 5 years from now.
+  It's been hell of a journey so far and it's only the beginning. We're learning and getting better, so we're all excited to see where NeuroTechX will be in 2 years or even 5 years from now.
