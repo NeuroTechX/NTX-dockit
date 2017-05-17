@@ -20,9 +20,9 @@ NTX Pillars & Vision
 
 You can find more `about`_ NeuroTechX and its mission, but in a nutshell, NeuroTechX focuses on 3 pillars in order to facilitate the advancement of neurotechnology:
 
-1. Community
-2. Education
-3. Innovation
+1. **Community**
+2. **Education**
+3. **Innovation**
 
 While they are all important pillars, the successful "order" is Community -> Education -> Innovation.
 
@@ -252,14 +252,16 @@ Don't get scared by the number of things listed here. Once you have a solid team
 	* Swag (T-Shirts, Stickers, ...)
 
 
-5. **Funding / Money / Sponsorships**
+5. **Funding, Money & Sponsorships**
   A Chapter is usually bootstrapped at the beginning. For the first 2 events, the chapter is expected to find a venue partner, a sponsor and/or charge a small entry fee to cover the event cost. After 2 bootstrapped events, a strategy for money & sponsorship can be discussed for the longer term in order to ensure the sustainability and scalabity of the chapter.
-	*(You'll see after 2 events. You will feel the magic and will want to do more. You will want to do bigger events, have a bigger impact, have more resources, etc.)*
+	
+  *(You'll see after 2 events. You will feel the magic and will want to do more. You will want to do bigger events, have a bigger impact, have more resources, etc.)*
 
 
 6. **NTX Services**
   NeuroTechX is now in a good position to consider offering services like recruitment. More and more people are gravitating around NeuroTechX and looking for opportunities and more opportunities are also available, we think we can help facilitating that process and that match making.
-	*(We are currently exploring this service we could offer)*
+	
+  *(We are currently exploring this service we could offer)*
 
 
 7. **NTX Knowledge**
