@@ -8,9 +8,9 @@ Resources
 	You should find:
 
 	* NTX `Logo & Branding <https://github.com/NeuroTechX/Resource-Kit>`_
-	* NTX Presentation (available `here <https://docs.google.com/presentation/d/1iZlaSiczjGCQkyuyuxqRpn-c918x5lWsMSTWffhn2Yc/>`_)
-	* NTX Media Kit (available `here <http://neurotechx.com/resources/NeuroTechX_Media_Kit.pdf>`_)
-	* NTX 1-Pager (available `here <https://drive.google.com/open?id=0B7bjjfpwAk4acE1FTUVmQXF5N0E>`_)
+	* NTX `Presentation <https://docs.google.com/presentation/d/1iZlaSiczjGCQkyuyuxqRpn-c918x5lWsMSTWffhn2Yc/>`_
+	* NTX `Media Kit <http://neurotechx.com/resources/NeuroTechX_Media_Kit.pdf>`_
+	* NTX `1-Pager <https://drive.google.com/open?id=0B7bjjfpwAk4acE1FTUVmQXF5N0E>`_
 	* NTX Sponsorship Deck - Local (`MTL Example <https://drive.google.com/open?id=0B7bjjfpwAk4acE1FTUVmQXF5N0E>`_)
 	* NTX Sponsorship Deck - Global [coming soon]
 	* NTX Org Chart (available `here <http://neurotechx.com/resources/NeuroTechX_Media_Kit.pdf>`_)
