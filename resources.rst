@@ -7,7 +7,7 @@ Resources
 
 	You should find:
 
-	* NTX Logo & Branding (also available on `GitHub <https://github.com/NeuroTechX/Resource-Kit>`_)
+	* NTX `Logo & Branding <https://github.com/NeuroTechX/Resource-Kit>`_
 	* NTX Presentation (available `here <https://docs.google.com/presentation/d/1iZlaSiczjGCQkyuyuxqRpn-c918x5lWsMSTWffhn2Yc/>`_)
 	* NTX Media Kit (available `here <http://neurotechx.com/resources/NeuroTechX_Media_Kit.pdf>`_)
 	* NTX 1-Pager (available `here <https://drive.google.com/open?id=0B7bjjfpwAk4acE1FTUVmQXF5N0E>`_)
