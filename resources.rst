@@ -15,6 +15,7 @@ Resources
 	* NTX Sponsorship Deck - Global [coming soon]
 	* NTX `Org Chart <http://neurotechx.com/resources/NeuroTechX_Media_Kit.pdf>`_
 	* NTX `Timeline <https://drive.google.com/open?id=0B7bjjfpwAk4aWF82Z0Y1QWlGcGs>`_
+	* NTX `Goals & Roadmap - 2017 <https://docs.google.com/presentation/d/1vZ-W08bhYjPufl292j-WvOaSKKoDKjtSc5JNdVUM0XA>`_
 	* NTX Meetup Presentations [coming soon]
 	* NTX Pictures [coming soon]
 	* NTX `Business Cards <https://drive.google.com/a/neurotechx.com/file/d/0B7bjjfpwAk4aTjZKTUJndENsa0k>`_
