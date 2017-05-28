@@ -13,13 +13,13 @@ Resources
 	* NTX `1-Pager <https://drive.google.com/open?id=0B7bjjfpwAk4acE1FTUVmQXF5N0E>`_
 	* NTX `Sponsorship Deck - Local <https://drive.google.com/open?id=0B7bjjfpwAk4acE1FTUVmQXF5N0E>`_ (MTL Example))
 	* NTX Sponsorship Deck - Global [coming soon]
-	* NTX `Org Chart <https://drive.google.com/open?id=0B7bjjfpwAk4aVVR3bXJkSWpqNGc>`_
+	* NTX `Org Chart <http://neurotechx.com/resources/NeuroTechX_Media_Kit.pdf>`_
 	* NTX `Timeline <https://drive.google.com/open?id=0B7bjjfpwAk4aWF82Z0Y1QWlGcGs>`_
 	* NTX Meetup Presentations [coming soon]
 	* NTX Pictures [coming soon]
-	* NTX `Business Cards <https://drive.google.com/a/neurotechx.com/file/d/0B7bjjfpwAk4aTjZKTUJndENsa0k>`_ (from your NTX account)
+	* NTX `Business Cards <https://drive.google.com/a/neurotechx.com/file/d/0B7bjjfpwAk4aTjZKTUJndENsa0k>`_
 	* NTX Business Model [coming soon]
-	* NTX Poster [coming soon] (`2016 <https://drive.google.com/file/d/0B7bjjfpwAk4aUUcwdEtNVFY4cFU>`_)
+	* NTX Poster [coming soon] (`Last Year <https://drive.google.com/file/d/0B7bjjfpwAk4aUUcwdEtNVFY4cFU>`_)
 
 	For NeuroTechX swag, please refer to our store [coming soon].
 
