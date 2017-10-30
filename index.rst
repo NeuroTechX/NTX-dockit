@@ -11,33 +11,48 @@ Getting to know NeuroTechX
 
    about
    initiatives
-   contact
    conduct
+   social-media
 
 
-Running a Chapter
+Chapter Guidelines
 ------------------
 
 .. toctree::
 
   chapter-guidelines
-  getting-started
-  social-media
+  resources
+  sponsorship
+  
 
 Growing a Community
------------------
+-------------------
 
 .. toctree::
 
   community-growth
   meetups
   hacknights
+  
 
+Getting Started
+---------------
 
-Extra
+.. toctree::
+
+  getting-started
+  
+  
+FAQ
+---
+
+.. toctree::
+
+  FAQ
+  
+Contacts
 -----
 
 .. toctree::
 
-  resources
-  FAQ
+  contact

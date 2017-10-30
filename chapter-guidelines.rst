@@ -257,6 +257,7 @@ Don't get scared by the number of things listed here. Once you have a solid team
 	
   *(You'll see after 2 events. You will feel the magic and will want to do more. You will want to do bigger events, have a bigger impact, have more resources, etc.)*
 
+  See the _sponsorship section for more details.
 
 6. **NTX Services**
   NeuroTechX is now in a good position to consider offering services like recruitment. More and more people are gravitating around NeuroTechX and looking for opportunities and more opportunities are also available, we think we can help facilitating that process and that match making.
