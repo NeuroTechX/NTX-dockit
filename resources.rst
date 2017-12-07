@@ -7,7 +7,7 @@ Resources
 
 	You should find:
 
-	* NTX `Logo & Branding <https://github.com/NeuroTechX/Resource-Kit>`_
+	* NTX `Logo & Branding (Assets) <https://github.com/NeuroTechX/Resource-Kit>`_
 	* NTX `Presentation <https://docs.google.com/presentation/d/1iZlaSiczjGCQkyuyuxqRpn-c918x5lWsMSTWffhn2Yc>`_
 	* NTX `Media Kit <http://neurotechx.com/resources/NeuroTechX_Media_Kit.pdf>`_
 	* NTX `1-Pager <https://drive.google.com/open?id=0B7bjjfpwAk4acE1FTUVmQXF5N0E>`_
@@ -21,7 +21,8 @@ Resources
 	* NTX `Business Cards <https://drive.google.com/a/neurotechx.com/file/d/0B7bjjfpwAk4aTjZKTUJndENsa0k>`_
 	* NTX Business Model [coming soon]
 	* NTX Poster [coming soon] (`Last Year <https://drive.google.com/file/d/0B7bjjfpwAk4aUUcwdEtNVFY4cFU>`_)
+	* NTX `Brand Style Guideline <https://docs.google.com/presentation/d/1xNXv7ON4FOxRFW83Pzula3hCS6Y9NqCE59DRBggDWsc>`_
 
-	For NeuroTechX swag, please refer to our store [coming soon].
+	For NeuroTechX swag, please refer to our `store <https://teespring.com/neurotechx`_.
 
 	For neurotechnology-related resources, please refer to `NeuroTechEDU <http://edu.neurotechx.com>`_.

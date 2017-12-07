@@ -258,6 +258,14 @@ Don't get scared by the number of things listed here. Once you have a solid team
   *(You'll see after 2 events. You will feel the magic and will want to do more. You will want to do bigger events, have a bigger impact, have more resources, etc.)*
 
   See the _sponsorship section for more details.
+  
+  **Money Handling**
+  The money always flow through the organization's bank account and not through individuals bank account.
+  The money is currently centralized in NeuroTechX HQ and redistributed to chapters and initiatives.
+  The Finance Director (Ferdinand) is the one handling these transaction. 
+  We do have many different processes in place to facilitate exchange of money both between NTX and our partners, and also NTX and its chapters.
+
+  Please consult (`this document <https://docs.google.com/document/d/1TmNZ0j7AvzNl0a5PDxe6y9AzeXFYkowKFRtTnv7Acek/edit>`_) for more details.
 
 6. **NTX Services**
   NeuroTechX is now in a good position to consider offering services like recruitment. More and more people are gravitating around NeuroTechX and looking for opportunities and more opportunities are also available, we think we can help facilitating that process and that match making.
