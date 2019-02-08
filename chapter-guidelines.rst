@@ -277,28 +277,12 @@ Don't get scared by the number of things listed here. Once you have a solid team
   As mentioned earlier, part of NeuroTechX' strength is its knowledge of the field and the ecosystem - locally and internationally. This is why we all work together to nuture that shared knowledge.
 
 
-Lessons Learned (2015-2016)
----------------------------
-1. **MTL examples.**
-	[coming soon]
+7. **Conflict of Interest.**
+As a representative of NTX, you are thinking first about the mission of the organization before anything else. The admin role comes with the responsibility to positively represent the brand and to promote it, but you shall never claim direct ownership of the brand. 
+This implies that you must keep your own personal brand separate from NTX’s. 
 
 
-2. **SF examples.**
-	[coming soon]
-	(e.g. Inclusivity vs Exclusitivy for NeuroTechSF Hacknights)
-
-
-3. **BOS examples.**
-	[coming soon]
-	(e.g. Finding Venues)
-
-
-4. **TO examples.**
-	[coming soon]
-	(e.g. Organization, Schedule & Team)
-        
-        
-5. **Pain & Friction.**
+6. **Pain & Friction.**
 	The most common pain points for a chapter (what we've learned from 2016) are the following:
 	
   * Time
@@ -313,7 +297,7 @@ Lessons Learned (2015-2016)
   NTX is currently working on all these pain points, by (1) putting a framework with a "perfect basic recipe for a successful chapter" (this is the first draft of it). (2) Increase communication between chapters with the monthly reports and 1-2 new activity that will shortly be announced in 2017. (3) Create content ready and easy to use; Presentations, Tutorials, Workshops, etc. (4) Focusing on the money aspect of NeuroTechX, which wasn't a priority in 2016.
 
 
-6. **General**
+7. **General**
   The idea is spot on. Something was missing in the neurotech ecosystem, that’s why we are growing.
   People are looking for more… Now, the challenge is to create an inclusive community while maintaining a certain level of quality. We knew from day 1 that "creating an international network to facilitate the advancement of neurotechnology" wasn't an easy task. 
   
