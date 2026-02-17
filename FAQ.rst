@@ -7,10 +7,16 @@ Frequently Asked Questions
   July 2015 with the 3 first chapters: Montreal, San Francisco and New York.
 
 **Who's behind NeuroTechX?**
-  Yannick Roy annoyed a bunch of people with his idea of creating an International NeuroTech Community.
-  Some where foolish enough to follow him in this amazing journey: Sydney Swaine-Simon, Melanie Segado, Ferdinand Ephrem, Marion Le Borgne, John Naulty and many others!
+  NeuroTechX was founded in 2015 by Yannick Roy along with co-founders Sydney Swaine-Simon, Melanie Segado, Ferdinand Ephrem, Marion Le Borgne, and John Naulty.
 
-  Today, so many people deserves to be mentioned in the success of NeuroTechX. Please see the *team* page on the website.  
+  As of 2026, the organization is led by a dedicated Board of Directors and Officers including:
+  * **Morgan Hough** (Executive Director & BOD)
+  * **John Griffiths** (Science Director & BOD)
+  * **Susan Boekhne** (Education Director & BOD)
+  * **Han Cat Nyguen** (Secretary and Reports Director)
+  * **Sophie Valentine** (Lead, NeuroTechX Content Laboratory)
+
+  Today, many people contribute to the success of NeuroTechX. Please see the :ref:`team` page for more details.  
 
 **How can I join?**
   First, join Slack. Second, join your local Meetup. Third check out our Initiatives to see where you could find what you are looking for.

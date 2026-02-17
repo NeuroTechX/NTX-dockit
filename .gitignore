@@ -1,0 +1,6 @@
+_build/
+desktop.ini
+__pycache__/
+.venv/
+.uv/
+.cache/

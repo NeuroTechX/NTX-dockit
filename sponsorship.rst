@@ -1,7 +1,7 @@
 .. _sponsorship:
 
 Sponsorship / Partnership
-===============
+=========================
 
 Local vs Global
 ---------------
@@ -37,7 +37,7 @@ Money Handling
 --------------
 The money always flow through the organization's bank account and not through individuals bank account.
 The money is currently centralized in NeuroTechX HQ and redistributed to chapters and initiatives.
-The Finance Director (Ferdinand) is the one handling these transaction. 
+The Finance Director is the one handling these transactions. 
 We do have many different processes in place to facilitate exchange of money both between NTX and our partners, and also NTX and its chapters.
 
 Please consult (`this document <https://docs.google.com/document/d/1TmNZ0j7AvzNl0a5PDxe6y9AzeXFYkowKFRtTnv7Acek/edit>`_) for more details.

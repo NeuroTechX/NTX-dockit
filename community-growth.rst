@@ -1,7 +1,7 @@
 .. _community:
 
 Growing your Community
-======
+======================
 
  This section is dedicated to resources you should be aware of as a network builder. If you are looking to create the best community out there, you should take a look at the following books and resources:
 
@@ -11,7 +11,7 @@ Growing your Community
 * `Startup Communities: Building an Entrepreneurial Ecosystem in Your City <http://www.amazon.ca/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1480563854>`_
 
 General Organizational Tips
-----------
+---------------------------
 
 * Have ONE (1) point person for each outcome / component of the meetup. As the organizer, your life will be less hectic, and the events will run more smoothly, if you delegate as much as you can to a core group of co-conspirators. Co-conspirators often wear multiple “hats” - are the point person for multiple outcomes. Tips: You can give team roles fun names evoking sci-fi / fantasy flavors or other silliness. Describe responsibilities in terms of clearly defined high-level outcomes (not only tasks), to allow for individuals to notice things you didn’t and find creative solutions. Examples include:
 
@@ -24,7 +24,7 @@ General Organizational Tips
 
 
 Organizing your time in the Chapter
-----------
+-----------------------------------
 
 Create a schedule where you incorporate 6-12 events a year. It will help you stay focused.
 
@@ -40,7 +40,7 @@ For best community building- have an activity which you can locally work togethe
 
 
 Adding new Admins to the Chapter
-----------
+--------------------------------
 
 Before just adding anyone to become a chapter admin, you should ask yourself yourself the following.
 
@@ -53,7 +53,7 @@ Before just adding anyone to become a chapter admin, you should ask yourself you
 
 
 Dealing with Toxic Community Members/Admins
-----------
+-------------------------------------------
 
 	The time may come when, there might be some people who may do more harm than good for the community. Certain characteristics of a toxic member includes:
 
