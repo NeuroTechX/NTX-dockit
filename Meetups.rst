@@ -29,7 +29,7 @@ If you are short on theme ideas, try the following:
 	* DIY projects Demo Day
 
 Preparing an event
-------------------------
+------------------
 
 Here is a checklist to follow when putting together a good event:
 

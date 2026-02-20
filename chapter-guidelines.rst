@@ -1,7 +1,7 @@
 .. _chapter-guidelines:
 
 Chapter Guidelines
-======================
+==================
 
 NTX Chapter's Mission Statement
 -------------------------------
@@ -18,7 +18,7 @@ When people Google:  "*NeuroTech + [City]*"  they should land on the local NTX C
 NTX Pillars & Vision
 --------------------
 
-You can find more `about`_ NeuroTechX and its mission, but in a nutshell, NeuroTechX focuses on 3 pillars in order to facilitate the advancement of neurotechnology:
+You can find more :ref:`about` NeuroTechX and its mission, but in a nutshell, NeuroTechX focuses on 3 pillars in order to facilitate the advancement of neurotechnology:
 
 1. **Community**
 2. **Education**
@@ -134,172 +134,179 @@ Don't get scared by the number of things listed here. Once you have a solid team
 
 1. **Expectations**
   
-  * **Events**  
+   * **Events**  
   
-    Here are the basic (minimum) requirements a chapter must fulfill on a yearly basis.
+     Here are the basic (minimum) requirements a chapter must fulfill on a yearly basis.
 
-    * 3x Meetup / Networking / Scientific Events (hosted by the Chapter, open to everyone)
+     * 3x Meetup / Networking / Scientific Events (hosted by the Chapter, open to everyone)
    
-      * 1x Latest News in the Field. (*Content Provided*)
-      * 1x Brain-Computer Interfaces (in depth). (*Content Provided*)
-      * 1x Brain Stimulation (in depth). (*Content Provided*)  
+       * 1x Latest News in the Field. (*Content Provided*)
+       * 1x Brain-Computer Interfaces (in depth). (*Content Provided*)
+       * 1x Brain Stimulation (in depth). (*Content Provided*)  
 
-    * 3x Hacknights (or more if it works well)
-    * 1x Workshop (NTX can maybe send devices if required*)
-    * Optional Events (on neurotech-related subjects)
+     * 3x Hacknights (or more if it works well)
+     * 1x Workshop (NTX can maybe send devices if required*)
+     * Optional Events (on neurotech-related subjects)
   
+     Hacknights are small events to organize and basic yearly "Meetup" events already have the content created. These 6 events can easily be organized and they can bring a lot of value, grow a solid community, give good visibility, and elevate the chapter and its admins as local references in neurotechnology.
+     The content could be delivered by someone from the community (e.g. a PhD student in a relevant field) or by someone from the industry (e.g. a sponsor) or by someone from academia (e.g. a researcher in the field). We leave it to the chapter to organize the event the way they see fit. The subjects can also be adapted, but this a good framework for something easy that works well and that has been tested.
+
+
+   * **Monthly Report** (G-Doc ‘Template’ to fill)
   
-    Hacknights are small events to organize and basic yearly "Meetup" events already have the content created. These 6 events can easily be organized and they can bring a lot of value, grow a solid community, give good visibility, and elevate the chapter and its admins as local references in neurotechnology.
-    The content could be delivered by someone from the community (e.g. a PhD student in a relevant field) or by someone from the industry (e.g. a sponsor) or by someone from academia (e.g. a researcher in the field). We leave it to the chapter to organize the event the way they see fit. The subjects can also be adapted, but this a good framework for something easy that works well and that has been tested.
+     Every month, one of the chapter admin should fill the Monthly Report Template [insert link here], to mention their event(s), highlights, projects, collaboration with other communities & partners, and their numbers (i.e. meetup, twitter, FB, ... )
+     This practice helps NeuroTechX keep track of what's happening around the world and allows other chapters to know what their peers are doing. *During NTX' first year, some chapters said that they had no idea what the other chapters were doing. This Monthly Report shared via internal communications should help address this issue and keep everyone informed about all the awesome neurotech stuff happening around the world!* You are not just doing it for you or for us, but for all your peers. You'll be happy to see their reports and they'll be happy to see yours.
 
 
-  * **Monthly Report** (G-Doc ‘Template’ to fill)
+   * **Job Opportunities**  
   
-    Every month, one of the chapter admin should fill the Monthly Report Template [insert link here], to mention their event(s), highlights, projects, collaboration with other communities & partners, and their numbers (i.e. meetup, twitter, FB, ... )
-    This practice helps NeuroTechX keep track of what's happening around the world and allows other chapters to know what their peers are doing. *During NTX' first year, some chapters said that they had no idea what the other chapters were doing. This Monthly Report shared via internal communications should help address this issue and keep everyone informed about all the awesome neurotech stuff happening around the world!* You are not just doing it for you or for us, but for all your peers. You'll be happy to see their reports and they'll be happy to see yours.
+     In order to benefit the different players in your local neurotech ecosystem, the chapter should help to facilitate recruitment & match making for both industry & academia opportunities. As more and more people gravitate around the chapter, more and more opportunities will start appearing and the NTX local chapter is expected to keep that aspect in mind as part of NeuroTechX mission to accelerate the field. NTX is currently exploring a macro solution (job posting board, match making/recruitment services, etc.), but before a macro solution is put forward, the local chapter can explore their own solutions. As a good example, NeuroTechTO started announcing job opportunities in their Monthly-ish Meetup communication. Very simple, and help put the spotlight on your chapter so that companies contact you to showcase their job opportunities. (it will help for sponsorships and partnerships down the road)
 
 
-  * **Job Opportunities**  
+   * **Each event**
   
-    In order to benefit the different players in your local neurotech ecosystem, the chapter should help to facilitate recruitment & match making for both industry & academia opportunities. As more and more people gravitate around the chapter, more and more opportunities will start appearing and the NTX local chapter is expected to keep that aspect in mind as part of NeuroTechX mission to accelerate the field. NTX is currently exploring a macro solution (job posting board, match making/recruitment services, etc.), but before a macro solution is put forward, the local chapter can explore their own solutions. As a good example, NeuroTechTO started announcing job opportunities in their Monthly-ish Meetup communication. Very simple, and help put the spotlight on your chapter so that companies contact you to showcase their job opportunities. (it will help for sponsorships and partnerships down the road)
+     A chapter should do the following for each event (please see the :ref:`Meetups` checklist):
+
+     * Marketing Before the event (announce it via different channels)
+     * Invite People to Subscribe to NTX Newsletter during the event (NTX strength is also its reach - we need everyone's help)
+     * Take Pictures during the event (you do amazing stuff, make it immortal and take good quality pictures! You'll thank yourself later.)
+     * Tweet During the event (Make some noise and show what you guys do. It will help you big time down the road.)
+     * Blog Post After the event (We'd like to have a "story book", showcasing all the awesome stuff NeuroTechX and its chapters is doing)
 
 
-  * **Each event**
-  
-    A chapter should do the following for each event (please see the <a href="#meetups">NTX Event Checklist</a>):
-
-    * Marketing Before the event (announce it via different channels)
-    * Invite People to Subscribe to NTX Newsletter during the event (NTX strength is also its reach - we need everyone's help)
-    * Take Pictures during the event (you do amazing stuff, make it immortal and take good quality pictures! You'll thank yourself later.)
-    * Tweet During the event (Make some noise and show what you guys do. It will help you big time down the road.)
-    * Blog Post After the event (We'd like to have a "story book", showcasing all the awesome stuff NeuroTechX and its chapters is doing)
-
-
-  * **Collaboration**
+   * **Collaboration**
     
-    As a chapter you will need friends and partners. Therefore, you should Collaborate, Attend & Co-organize events with other communities, like those in DIY Bio, AI / ML / Big Data, Futuristic-ish, Healthcare, etc. Depending on the event, it might just be to help with the promotion of the event and they put your logo on the event, or it could be for you to show up and give a short talk on NTX or even to have a booth, etc. Go out there, make friends and spread NTX love! But don't do everything yourselves, engage the community!
+     As a chapter you will need friends and partners. Therefore, you should Collaborate, Attend & Co-organize events with other communities, like those in DIY Bio, AI / ML / Big Data, Futuristic-ish, Healthcare, etc. Depending on the event, it might just be to help with the promotion of the event and they put your logo on the event, or it could be for you to show up and give a short talk on NTX or even to have a booth, etc. Go out there, make friends and spread NTX love! But don't do everything yourselves, engage the community!
 
 
-  * **Student Clubs**
+   * **Student Clubs**
     
-    You should work with local universities to help neurotech student clubs. (and co-organize events)
-    There is a great synergy to be created between chapters & student clubs. Help them and they will help you back! (and join the chapter organizers when they graduate)
+     You should work with local universities to help neurotech student clubs. (and co-organize events)
+     There is a great synergy to be created between chapters & student clubs. Help them and they will help you back! (and join the chapter organizers when they graduate)
 
 
-  * **Community Knowledge**
+   * **Community Knowledge**
   
-    The power of NeuroTechX resides in its community, its shared resources, and its reach. Therefore we are all working together and we all benefit from it.
-    The more we all push, the more we all win.
+     The power of NeuroTechX resides in its community, its shared resources, and its reach. Therefore we are all working together and we all benefit from it.
+     The more we all push, the more we all win.
     
-    * NTX Local Chapters are expected to contribute to NTX knowledge by mapping its local ecosystem. (see Ecosystem Database [insert link here])
+     * NTX Local Chapters are expected to contribute to NTX knowledge by mapping its local ecosystem. (see Ecosystem Database [insert link here])
       
-      * Startups
-      * Companies
-      * Universities
-      * Research Labs
-      * Maker/Hacker Spaces
-      * Venues (finding venues doesn't always have to be a pain)
+       * Startups
+       * Companies
+       * Universities
+       * Research Labs
+       * Maker/Hacker Spaces
+       * Venues (finding venues doesn't always have to be a pain)
     
-    * NTX Local Chapters are expected to contribute to NTX Recruitment Services. (see Talent Database [insert link here])
+     * NTX Local Chapters are expected to contribute to NTX Recruitment Services. (see Talent Database [insert link here])
       
-      * Jobs
-      * Internships
-      * Opportunities
-      * Talent   
+       * Jobs
+       * Internships
+       * Opportunities
+       * Talent   
   
-	Again, don't be intimidated by this list. People wants to help, there is no doubt about that. Make sure you have a good relationship with your local community and engage them in different activities. That's what "community" means. It's not only a few admins who should do everything. BUT, it's their job to have a good 'leadership' system to empower others.
+     Again, don't be intimidated by this list. People wants to help, there is no doubt about that. Make sure you have a good relationship with your local community and engage them in different activities. That's what "community" means. It's not only a few admins who should do everything. BUT, it's their job to have a good 'leadership' system to empower others.
 
-	If you put together a solid team (see next section), able to address all these points. You are on your way to have hell of a journey!
+     If you put together a solid team (see next section), able to address all these points. You are on your way to have hell of a journey!
 
 
 
-2. **Team.**
+2. **Team**
 
-	In order to (1) have a successful chapter, (2) a great experience, (3) not waste anyone's time; we've identified what a "core" team should look like. There is an inherent challenge in putting a NTX Chapter Team together: Too many people makes it hard to manage. Too few people put a huge pressure on all of them. Wrong people in the wrong seats, make the seats unavailable and doesn't help the team.
+   In order to (1) have a successful chapter, (2) a great experience, (3) not waste anyone's time; we've identified what a "core" team should look like. There is an inherent challenge in putting a NTX Chapter Team together: Too many people makes it hard to manage. Too few people put a huge pressure on all of them. Wrong people in the wrong seats, make the seats unavailable and doesn't help the team.
 
-	* Minimum of 3 core admins (coordinators) at all time.
-	* Ideally 4-5 core admins (coordinators).
-	* Extended team ~10 (e.g. "friends" gravitating around & helping)
-	* Suggested Positions & Titles
-		* Chair / Main Coordinator.
-		* Technical Guru (focusing on ‘technical events’)
-		* Scientific Guru (focusing on ‘scientific events’)
-		* Marketing & Communication Guru.
+   * Minimum of 3 core admins (coordinators) at all time.
+   * Ideally 4-5 core admins (coordinators).
+   * Extended team ~10 (e.g. "friends" gravitating around & helping)
+   * Suggested Positions & Titles
+     * Chair / Main Coordinator.
+     * Technical Guru (focusing on ‘technical events’)
+     * Scientific Guru (focusing on ‘scientific events’)
+     * Marketing & Communication Guru.
 
 
 3. **Activities & Services**
 
-	* Events: Networking, Guest Speakers, Gathering, etc.
-	* Workshops: Technical and/or Scientific, advanced and/or intro.
-	* Student Clubs: Each Engineering and/or Neuro Uni should have a student club!
-	* Biz Dev: Should help grow the Biz/Tech/Startup Ecosystem. (more mature chapters)
-	* Stay Tuned: Online and/or Offline Information about “What’s Happening”.
+   * Events: Networking, Guest Speakers, Gathering, etc.
+   * Workshops: Technical and/or Scientific, advanced and/or intro.
+   * Student Clubs: Each Engineering and/or Neuro Uni should have a student club!
+   * Biz Dev: Should help grow the Biz/Tech/Startup Ecosystem. (more mature chapters)
+   * Stay Tuned: Online and/or Offline Information about “What’s Happening”.
 
-	*For more info about what kind of event and how to rock a NeuroTechX Event, see the Event Mastersheet [insert link here]*
+   *For more info about what kind of event and how to rock a NeuroTechX Event, see the Event Mastersheet [insert link here]*
 
 
 4. **Support**
-  NeuroTechX is providing the following resources to its chapters:
+
+   NeuroTechX is providing the following resources to its chapters:
   
-	* International Brand
-	* Presentations on Neurotechnology "hot" Topics.
-	* Access to Projects, Tutorials & Workshops.
-	* Devices & Technology.
-	* International Network of Neurotech Enthusiasts - from Hackers to Industry to Academia.
-	* Website, Meetup & Social Media accounts
-	* Access to our Partners, Mentors & Advisors
-	* Marketing & Branding Materials
-	* Swag (T-Shirts, Stickers, ...)
+   * International Brand
+   * Presentations on Neurotechnology "hot" Topics.
+   * Access to Projects, Tutorials & Workshops.
+   * Devices & Technology.
+   * International Network of Neurotech Enthusiasts - from Hackers to Industry to Academia.
+   * Website, Meetup & Social Media accounts
+   * Access to our Partners, Mentors & Advisors
+   * Marketing & Branding Materials
+   * Swag (T-Shirts, Stickers, ...)
 
 
 5. **Funding, Money & Sponsorships**
-  A Chapter is usually bootstrapped at the beginning. For the first 2 events, the chapter is expected to find a venue partner, a sponsor and/or charge a small entry fee to cover the event cost. After 2 bootstrapped events, a strategy for money & sponsorship can be discussed for the longer term in order to ensure the sustainability and scalabity of the chapter.
-	
-  *(You'll see after 2 events. You will feel the magic and will want to do more. You will want to do bigger events, have a bigger impact, have more resources, etc.)*
 
-  See the _sponsorship section for more details.
+   A Chapter is usually bootstrapped at the beginning. For the first 2 events, the chapter is expected to find a venue partner, a sponsor and/or charge a small entry fee to cover the event cost. After 2 bootstrapped events, a strategy for money & sponsorship can be discussed for the longer term in order to ensure the sustainability and scalabity of the chapter.
+    
+   *(You'll see after 2 events. You will feel the magic and will want to do more. You will want to do bigger events, have a bigger impact, have more resources, etc.)*
+
+   See the :ref:`sponsorship` section for more details.
   
-  **Money Handling**
-  The money always flow through the organization's bank account and not through individuals bank account.
-  The money is currently centralized in NeuroTechX HQ and redistributed to chapters and initiatives.
-  The Finance Director (Ferdinand) is the one handling these transaction. 
-  We do have many different processes in place to facilitate exchange of money both between NTX and our partners, and also NTX and its chapters.
+   **Money Handling**
 
-  Please consult (`this document <https://docs.google.com/document/d/1TmNZ0j7AvzNl0a5PDxe6y9AzeXFYkowKFRtTnv7Acek/edit>`_) for more details.
+   The money always flow through the organization's bank account and not through individuals bank account.
+   The money is currently centralized in NeuroTechX HQ and redistributed to chapters and initiatives.
+   The Finance Director is the one handling these transactions. 
+   We do have many different processes in place to facilitate exchange of money both between NTX and our partners, and also NTX and its chapters.
+
+   Please consult (`this document <https://docs.google.com/document/d/1TmNZ0j7AvzNl0a5PDxe6y9AzeXFYkowKFRtTnv7Acek/edit>`_) for more details.
 
 6. **NTX Services**
-  NeuroTechX is now in a good position to consider offering services like recruitment. More and more people are gravitating around NeuroTechX and looking for opportunities and more opportunities are also available, we think we can help facilitating that process and that match making.
-	
-  *(We are currently exploring this service we could offer)*
+
+   NeuroTechX is now in a good position to consider offering services like recruitment. More and more people are gravitating around NeuroTechX and looking for opportunities and more opportunities are also available, we think we can help facilitating that process and that match making.
+    
+   *(We are currently exploring this service we could offer)*
 
 
 7. **NTX Knowledge**
-  As mentioned earlier, part of NeuroTechX' strength is its knowledge of the field and the ecosystem - locally and internationally. This is why we all work together to nuture that shared knowledge.
+
+   As mentioned earlier, part of NeuroTechX' strength is its knowledge of the field and the ecosystem - locally and internationally. This is why we all work together to nuture that shared knowledge.
 
 
-7. **Conflict of Interest.**
-As a representative of NTX, you are thinking first about the mission of the organization before anything else. The admin role comes with the responsibility to positively represent the brand and to promote it, but you shall never claim direct ownership of the brand. 
-This implies that you must keep your own personal brand separate from NTX’s. 
+8. **Conflict of Interest**
+
+   As a representative of NTX, you are thinking first about the mission of the organization before anything else. The admin role comes with the responsibility to positively represent the brand and to promote it, but you shall never claim direct ownership of the brand. 
+   This implies that you must keep your own personal brand separate from NTX’s. 
 
 
-6. **Pain & Friction.**
-	The most common pain points for a chapter (what we've learned from 2016) are the following:
-	
-  * Time
-  * Venue ($)
-  * Content (Slides, Tutorials, Projects, etc.)
-  * Engagement
-  * Sponsorship
-  * Expectation
-  * Communication
-  * Feel Disconnected from NTX
+9. **Pain & Friction**
+
+   The most common pain points for a chapter (what we've learned over the years) are the following:
+    
+   * Time
+   * Venue ($)
+   * Content (Slides, Tutorials, Projects, etc.)
+   * Engagement
+   * Sponsorship
+   * Expectation
+   * Communication
+   * Feel Disconnected from NTX
   
-  NTX is currently working on all these pain points, by (1) putting a framework with a "perfect basic recipe for a successful chapter" (this is the first draft of it). (2) Increase communication between chapters with the monthly reports and 1-2 new activity that will shortly be announced in 2017. (3) Create content ready and easy to use; Presentations, Tutorials, Workshops, etc. (4) Focusing on the money aspect of NeuroTechX, which wasn't a priority in 2016.
+   NTX is currently working on all these pain points, by (1) putting a framework with a "perfect basic recipe for a successful chapter" (this is the first draft of it). (2) Increase communication between chapters with the monthly reports and new activities. (3) Create content ready and easy to use; Presentations, Tutorials, Workshops, etc. (4) Focusing on the money aspect of NeuroTechX, which has been a priority as we grow.
 
 
-7. **General**
-  The idea is spot on. Something was missing in the neurotech ecosystem, that’s why we are growing.
-  People are looking for more… Now, the challenge is to create an inclusive community while maintaining a certain level of quality. We knew from day 1 that "creating an international network to facilitate the advancement of neurotechnology" wasn't an easy task. 
+10. **General**
+
+   The idea is spot on. Something was missing in the neurotech ecosystem, that’s why we are growing.
+   People are looking for more… Now, the challenge is to create an inclusive community while maintaining a certain level of quality. We knew from day 1 that "creating an international network to facilitate the advancement of neurotechnology" wasn't an easy task. 
   
-  Day after day we're having a greater impact and more people gravitating around NeuroTechX (1) learned, (2) met awesome people, (3) worked on projects, (4) got opportunities, (5) got visibility, (6) attended international events, (7) hired people, (8) started a business, etc.
-  It's been hell of a journey so far and it's only the beginning. We're learning and getting better, so we're all excited to see where NeuroTechX will be in 2 years or even 5 years from now.
+   Day after day we're having a greater impact and more people gravitating around NeuroTechX (1) learned, (2) met awesome people, (3) worked on projects, (4) got opportunities, (5) got visibility, (6) attended international events, (7) hired people, (8) started a business, etc.
+   It's been hell of a journey so far and it's only the beginning. We're learning and getting better, so we're all excited to see where NeuroTechX will be by 2030.

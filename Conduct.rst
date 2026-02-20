@@ -1,7 +1,7 @@
 .. _code-of-conduct:
 
 Code of Conduct
-======
+========================
 
 NeurotechX is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form. This does not only extend to members to local NeurotechX communities, but to anyone who chooses to become involved in the larger community of users, developers and integrators through events or interactions.
 

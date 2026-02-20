@@ -11,7 +11,7 @@ Getting to know NeuroTechX
 
    about
    initiatives
-   conduct
+   Conduct
    social-media
 
 
@@ -21,6 +21,7 @@ Chapter Guidelines
 .. toctree::
 
   chapter-guidelines
+  Expectations
   resources
   sponsorship
   
@@ -31,7 +32,7 @@ Growing a Community
 .. toctree::
 
   community-growth
-  meetups
+  Meetups
   hacknights
   
 
@@ -51,8 +52,9 @@ FAQ
   FAQ
   
 Contacts
------
+--------
 
 .. toctree::
 
   contact
+  team

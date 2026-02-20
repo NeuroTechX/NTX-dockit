@@ -5,37 +5,34 @@ Contacts
 
 Directors Contact Information
 -----------------------------
-If you need to reach out to the directors of NeuroTechX, their information can be found below.
+If you need to reach out to the leadership of NeuroTechX, their information can be found below.
 
 Executive Director:
-	| Email: yannick at [organization name].com
-	| Slack: @yannick
+    **Morgan Hough**
+    | Email: morgan at neurotechx.com
+    | Slack: @morgan
 
-International (Connectome):
-	| Email: sydney at [organization name].com
-	| Slack: @sydneyneurotechx
+Science Director:
+    **John Griffiths**
+    | Email: john at neurotechx.com
+    | Slack: @john
 
-Operations:
-	| Email: N/A	[Currently Open Position]
-	| Slack: N/A
+Education Director:
+    **Susan Boekhne**
+    | Email: susan at neurotechx.com
+    | Slack: @susan
 
-Science:
-	| Email: melanie at [organization name].com
-	| Slack: @melanie
+Secretary & Reports Director:
+    **Han Cat Nyguen**
+    | Email: han at neurotechx.com
+    | Slack: @han
 
-Marketing:
-	| Email: N/A	[Currently Open Position]
-	| Slack: N/A
-
-Communications:
-	| Email: lucia at [organization name].com
-	| Slack: @lucia.gallardo
-
-Finance:
-	| Email: ferdinand at [organization name].com
-	| Slack: @eferdinand
+NeuroTechX Content Laboratory:
+    **Sophie Valentine**
+    | Email: sophie at neurotechx.com
+    | Slack: @sophie
 
 
 Chapter Coordinators (admins)
 -----------------------------
-To see the local chapter coordinators (aka admins) see the `team`_ page.
+To see the local chapter coordinators (aka admins) see the :ref:`team` page.

@@ -54,7 +54,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'NTX-dockit'
-copyright = u'2015, NeuroTechX'
+copyright = u'2015-2026, NeuroTechX'
 author = u'NeuroTechX'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -71,7 +71,7 @@ release = '0'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = 'en'
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
@@ -120,7 +120,6 @@ todo_include_todos = False
 # a list of builtin themes.
 if sphinx_rtd_theme:
     html_theme = "sphinx_rtd_theme"
-    html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 else:
     html_theme = "default"
 
