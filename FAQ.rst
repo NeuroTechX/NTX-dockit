@@ -39,7 +39,7 @@ Frequently Asked Questions
 3) Check out the Awesome BCI List.
 
 **Is there a chapter in my city?**
-  Check out the map on neurotechx.com and browse through the chapter list.
+  Check out the map on `neurotechx.org/community <https://neurotechx.org/community>`_ and browse through the chapter list.
 
 **Can I start a chapter in my city?**
   Contact yannick at [organization name].com
