@@ -42,6 +42,8 @@ Getting Started
 .. toctree::
 
   getting-started
+  chapter-onboarding
+  student-club-onboarding
   
   
 FAQ
