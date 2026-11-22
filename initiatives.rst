@@ -50,8 +50,7 @@ Upcoming events:
 
 Obviously NeuroTechX is way more than these initiatives and this is a not exhaustive list of things we're doing!
 
-* `NTX Store <http://store.neurotechx.com/>`_ - Looking to buy consumer neurotech products?
-* `NTX Social Media <https://twitter.com/NeuroTechX>`_ - Follow us!
-* `NTX Blog <http://blog.neurotechx.com/>`_ - Learn more about the field!
-* `NTX Website <http://neurotechx.com/>`_ - Spread the word and share that URL ;)
-* `NTX Newsletter <http://eepurl.com/bEQDKX>`_ - Stay tuned!
+* `NTX Social Media <https://x.com/NeuroTechX>`_ - Follow us!
+* `NTX Blog <https://medium.com/neurotechx>`_ - Learn more about the field!
+* `NTX Website <https://neurotechx.org/>`_ - Spread the word and share that URL ;)
+* `NTX Newsletter <https://neurotechx.org/newsletter>`_ - Stay tuned!

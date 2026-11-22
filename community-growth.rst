@@ -5,10 +5,9 @@ Growing your Community
 
  This section is dedicated to resources you should be aware of as a network builder. If you are looking to create the best community out there, you should take a look at the following books and resources:
 
-* `25 best practices for Meetups <http://www.mikeschinkel.com/blog/25-best-practices-for-meetup-organizers>`_
-* `Exponential Organizations <http://www.amazon.ca/Exponential-Organizations-organizations-better-cheaper-ebook/dp/B00OO8ZGC6>`_
-* `The Art of Community: Building the New Age of Participation <http://www.amazon.ca/The-Art-Community-Building-Participation/dp/1449312063>`_
-* `Startup Communities: Building an Entrepreneurial Ecosystem in Your City <http://www.amazon.ca/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1480563854>`_
+* `Exponential Organizations <https://www.amazon.ca/Exponential-Organizations-organizations-better-cheaper-ebook/dp/B00OO8ZGC6>`_
+* `The Art of Community: Building the New Age of Participation <https://www.amazon.ca/The-Art-Community-Building-Participation/dp/1449312063>`_
+* `Startup Communities: Building an Entrepreneurial Ecosystem in Your City <https://www.amazon.ca/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1480563854>`_
 
 General Organizational Tips
 ---------------------------
@@ -34,7 +33,7 @@ Have one community project to work on with an end goal.
 
 Aim to do an event at least every 2 months. Focusing on quality versus quantity is important as if a person dislikes the event, it's likely they won't come back. Spend the rest of your time working on a group project, to keep things focused.
 
-For best community building- have an activity which you can locally work together on something and then aim to release it to a larger community. `The art of Commmunity is a great read <http://www.amazon.ca/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1480563854>`_ with some great details on how to grow your open source community.
+For best community building- have an activity which you can locally work together on something and then aim to release it to a larger community. `The Art of Community is a great read <https://www.amazon.ca/The-Art-Community-Building-Participation/dp/1449312063>`_ with some great details on how to grow your open source community.
 
 
 

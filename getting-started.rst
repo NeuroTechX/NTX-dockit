@@ -3,7 +3,7 @@
 Getting Started
 ===============
 
-If you are interested in creating a chapter in your city, please fill out the following  `form <http://goo.gl/forms/HFqTewsKTn>`_ to let us know.
+If you are interested in creating a chapter in your city, please fill out the following `form <https://docs.google.com/forms/d/e/1FAIpQLSePuM-K3IFOpjtNsE78HN-I3KZ5-S9L_tD37HYbH6W4mNSj2g/viewform>`_ to let us know.
 
 We will then arrange a call with you to chat so that we can get to know you better and get you started in creating a chapter in your city.
 
@@ -28,7 +28,7 @@ Setting up the Meetup Page
 
 Although it will likely be taken care of you, in certain situations you may need to set it up yourself.  Here is a step by step guide on what to do.
 
-1. Go to `Meetup.com <http://www.meetup.com>`_ and select Start a Meetup Group.
+1. Go to `Meetup.com <https://www.meetup.com>`_ and select Start a Meetup Group.
 
 2. Select the city you will be hosting the event.  If you make a mistake you will be required to reach out to Meetup and ask them to change it)
 
