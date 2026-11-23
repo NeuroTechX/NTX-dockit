@@ -35,7 +35,7 @@ What we ask
 -----------
 
 #. **Hold at least one public event every quarter.** Regular events are what build a community.
-#. **Follow the** `Code of Conduct <https://neurotechx.org/code-of-conduct>`__ and say so at your events. Reports go to `admins@neurotechx.com <mailto:admins@neurotechx.com>`__.
+#. **Follow the** `Code of Conduct <https://neurotechx.org/code-of-conduct>`__ and say so at your events. Reports go to `admins@neurotechx.org <mailto:admins@neurotechx.org>`__.
 #. **Keep one contact address working**, and tell us when the organizers change.
 #. **Answer the yearly check-in**: a short note on what you ran and who to contact.
 #. **Stay with the science.** Present benefits, risks and unknowns. No pseudoscience and no medical claims.
@@ -45,7 +45,7 @@ Your first 90 days
 
 **Weeks 1–2: say hello**
 
-* Write to `chapters@neurotechx.com <mailto:chapters@neurotechx.com>`__ with your city, who you are, and what you have in mind.
+* Write to `chapters@neurotechx.org <mailto:chapters@neurotechx.org>`__ with your city, who you are, and what you have in mind.
 * We set up a short call.
 * Join the NeuroTechX Slack through `neurotechx.org/community <https://neurotechx.org/community>`__.
 
@@ -116,10 +116,10 @@ If your city has university neurotech clubs, invite them in. Co-host an event, s
 Who to write to
 ---------------
 
-* **Starting a chapter, changes of organizer, events to announce:** `chapters@neurotechx.com <mailto:chapters@neurotechx.com>`__
-* **Student clubs:** `studentclubs@neurotechx.com <mailto:studentclubs@neurotechx.com>`__
-* **A Code of Conduct report:** `admins@neurotechx.com <mailto:admins@neurotechx.com>`__
-* **Anything else:** `info@neurotechx.com <mailto:info@neurotechx.com>`__
+* **Starting a chapter, changes of organizer, events to announce:** `chapters@neurotechx.org <mailto:chapters@neurotechx.org>`__
+* **Student clubs:** `studentclubs@neurotechx.org <mailto:studentclubs@neurotechx.org>`__
+* **A Code of Conduct report:** `admins@neurotechx.org <mailto:admins@neurotechx.org>`__
+* **Anything else:** `info@neurotechx.org <mailto:info@neurotechx.org>`__
 
 In short
 --------
