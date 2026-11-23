@@ -45,12 +45,12 @@ Starting a club
 #. **Put up a web page.** One page is enough: who you are, your university, what you are building, how to join, how to contact you.
 #. **Build skills before building products.** Start by reproducing a known experiment: an SSVEP speller, a P300 demo, an EMG controller. EEG-ExPy has these ready to run.
 #. **Run something public.** An intro night, a "Neurotech 101" workshop, a demo table. This is how next year's members find you.
-#. **Tell us.** Write to `studentclubs@neurotechx.com <mailto:studentclubs@neurotechx.com>`__ with your club name, university, web page and contact address. We list you and introduce you in Slack.
+#. **Tell us.** Write to `studentclubs@neurotechx.org <mailto:studentclubs@neurotechx.org>`__ with your club name, university, web page and contact address. We list you and introduce you in Slack.
 
 Already running a club?
 -----------------------
 
-Send the same four things to `studentclubs@neurotechx.com <mailto:studentclubs@neurotechx.com>`__: club name, university, web page, contact address. If you were on the old NeuroTechX club list, tell us, so we can bring your entry up to date.
+Send the same four things to `studentclubs@neurotechx.org <mailto:studentclubs@neurotechx.org>`__: club name, university, web page, contact address. If you were on the old NeuroTechX club list, tell us, so we can bring your entry up to date.
 
 Your first year
 ---------------
@@ -84,6 +84,6 @@ Money and the name
 Who to write to
 ---------------
 
-* **Listing your club, new officers, events to announce, a support letter:** `studentclubs@neurotechx.com <mailto:studentclubs@neurotechx.com>`__
-* **A Code of Conduct report:** `admins@neurotechx.com <mailto:admins@neurotechx.com>`__
-* **Anything else:** `info@neurotechx.com <mailto:info@neurotechx.com>`__
+* **Listing your club, new officers, events to announce, a support letter:** `studentclubs@neurotechx.org <mailto:studentclubs@neurotechx.org>`__
+* **A Code of Conduct report:** `admins@neurotechx.org <mailto:admins@neurotechx.org>`__
+* **Anything else:** `info@neurotechx.org <mailto:info@neurotechx.org>`__
