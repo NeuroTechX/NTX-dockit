@@ -152,6 +152,9 @@ html_favicon = "favicon.ico"
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+# The guide is published on neurotechx.org/guide; old Read the Docs pages forward there.
+html_js_files = ['redirect-to-neurotechx-org.js']
+
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
 # directly to the root of the documentation.
